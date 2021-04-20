@@ -61,10 +61,12 @@ We are an international non-profit professional association with members in over
 This book only exists thanks to the thoughtful contributions from the testing community. We thank the following individuals for their contributions to this book.
 
 <h4>A</h4>
-Olga Aksi
+Olga Aksi, 
+Emma Armstrong
 <h4>B</h4>
 <h4>C</h4>
 <h4>D</h4>
+Anders Dinsen, 
 Arun Kumar Dutta
 <h4>E</h4>
 <h4>F</h4>
@@ -76,24 +78,26 @@ David Högberg
 <h4>J</h4>
 Klára Jánová
 <h4>K</h4>
+Jonathan Kean
 <h4>L</h4>
 <h4>M</h4>
 Matt Middleton
 <h4>N</h4>
 <h4>O</h4>
 <h4>P</h4>
+Eric Proegler
 <h4>Q</h4>
 <h4>R</h4>
 <h4>S</h4>
-Paul Seaman
-Karo Stoltzenburg
+Paul Seaman, 
+Karo Stoltzenburg, 
 Scott Syme
 <h4>T</h4>
 James Thomas
 <h4>U</h4>
 <h4>V</h4>
 <h4>W</h4>
-Amit Wertheimer
+Amit Wertheimer, 
 Tim Western
 <h4>X</h4>
 <h4>Y</h4>
