@@ -64,12 +64,14 @@ This book only exists thanks to the thoughtful contributions from the testing co
 Olga Aksi, 
 Emma Armstrong
 <h4>B</h4>
+Michael Bolton
 <h4>C</h4>
 <h4>D</h4>
 Anders Dinsen, 
 Arun Kumar Dutta
 <h4>E</h4>
 <h4>F</h4>
+Ben Fellows
 <h4>G</h4>
 David Greenlees
 <h4>H</h4>
@@ -80,6 +82,7 @@ Klára Jánová
 <h4>K</h4>
 Jonathan Kean
 <h4>L</h4>
+Petteri Lyytinen
 <h4>M</h4>
 Matt Middleton
 <h4>N</h4>
@@ -88,6 +91,7 @@ Matt Middleton
 Eric Proegler
 <h4>Q</h4>
 <h4>R</h4>
+Alex de los Reyes
 <h4>S</h4>
 Paul Seaman, 
 Karo Stoltzenburg, 
@@ -98,7 +102,8 @@ James Thomas
 <h4>V</h4>
 <h4>W</h4>
 Amit Wertheimer, 
-Tim Western
+Tim Western,
+Frances White
 <h4>X</h4>
 <h4>Y</h4>
 <h4>Z</h4>
