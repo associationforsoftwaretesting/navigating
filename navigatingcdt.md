@@ -34,7 +34,38 @@ The book is coordinated and collated by testing practitioner and long-standing A
 <h3 id="testing">Testing</h3>
 
 <h4>We test to make sure it works</h4>
-answer goes here
+
+To get to an understanding of what "works" means for a particular piece of software, we start with testing to explore and mentally model it. As we learn more and come to an agreement with stakeholders about what it means for the software to be working, we must still be mindful that any certainty we’ve gained is limited to the types and variety of testing and experimenting we've performed. We can still be fooled – there may be dependency on variables that we might not even be aware of, it might appear to work for us but might not to the customer (and vice versa), or we may have failed to consider particular types of user.
+
+So, when we test the software, we might explore who is likely to be using it, the things they might use it for, and what they would hope to get from it. It’s also worth finding out why we built this particular solution, what else we tried, and why the others were rejected. Through collaboration we are uncovering what "it works" means for different users (and stakeholders), situations, in relation to the purpose and intent of the product. All of these different components of the context of the software help us to test whether if it gives the required value to the people who matter and also what risks it poses to these people.
+
+By testing in this way and with context in mind, we strive to understand what the software does well enough to be able to tell the team making it enough that they can determine what could be changed to align with intent, and tell the stakeholders enough that they can determine if what it does is sufficient to be deliverable.
+
+We also need to be interested in whether the product does things that we don't intend it to, or that users expressly do not want, and what the effects of those things might be; in this sense, we also consciously test to find out how it might _not_ work.
+
+No level of testing can provide certainty that the software works, so our understanding of perceived risks and threats to the value of the software drive our prioritization of what to test and to what degree. As we explore, our assessment of risk may well change in light of new information too.
+
+In summary, we test to learn and make sure we understand how it works, and for whom; and how it doesn't work, and for whom.
+
+An alternative way to respond to the statement "We test to make sure it works" is to use the "Mary had a little lamb" heuristic from Gerald Weinberg and tie everything back to the [seven principles of context-driven testing](https://context-driven-testing.com/):
+
+_"We"_
+
+Testers, Developers, Analysts, and everyone else involved in making software perform tests - examining and investigating software to learn about it. Testing is an activity and sometimes a role, even for those who do not make it their profession. Those of us who do are typically working alongside people who are doing their own sensemaking, with different backgrounds, perspectives, and needs. People, working together, are the most important part of any project’s context.
+
+_"Test"_
+
+Investigating and assessing the software that was actually built, and comparing that to our models of what we think is needed.  Those models come from our general expectations about how software should look, feel, and behave, along with more specific expectations about what the software is going to be used for. Sometimes, these expectations are described explicitly, but even specifications can miss the mark. Often these expectations are not explicit (especially around dimensions of quality such as performance, security, usability, reliability, etc.) and we need to use our judgment and experience to evaluate what we're looking at. What are the expectations we bring into our testing? Where do they come from, who do they represent, and in what quantities and priorities should we balance overlapping expectations? Whose opinions matter? Whose opinions matter most? What tradeoffs are stakeholders willing to make? Good software testing is a challenging intellectual process.
+
+_"to Make Sure"_
+
+Testing is an information-gathering process. We share our findings, using our training to assign and communicate meaning and the context we believe is necessary to evaluate our findings. What the people guiding the project choose to do with the information that is gathered is a separate concern than the gathering and reporting of the information itself. The information gathered in testing on the state of the software and the project helps us make decisions with imperfect and incomplete information. There can be reducing amounts of uncertainty as more is learned and the team calibrates on standards and expectations, but there is no being sure. Projects unfold over time in ways that are often not predictable.
+
+The people considering what they know about the software may decide that a reported problem is serious and needs to be fixed; or they might decide the reported problem is not serious and choose to ignore it. A software release could be made, delayed, sped up, or skipped. Sometimes, it is appropriate for us as testers to share our opinions about what decisions should be made, and sometimes we are asked to quietly leave our findings at the door. We should remember that we are typically the experts about quality on the project, and our opinions are neither trivial or unnecessary. Only through judgment and skill, exercised cooperatively throughout the entire project, are we able to do the right things at the right times to effectively test our products.
+
+_"it Works"_
+
+Software is never perfect. The question we are trying to answer is whether it is good enough to solve the problem it was created to address (and typically, other problems too). We might not need to deeply understand the subject matter the software is helping with to test it, but we do need to understand the expectations of the people who will live with it, and include our experience and judgment in our evaluation. The product is a solution. If the problem isn’t solved, the product doesn’t work.
 
 <h3 id="testers">Testers</h3>
 <h3 id="testing-status">Testing Status</h3>
