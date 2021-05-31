@@ -74,7 +74,96 @@ Software is never perfect. The question we are trying to answer is whether it is
 <h3 id="automation">Automation</h3>
 
 <h4>Let's just automate the testing</h4>
-answer goes here
+
+A context-driven tester believes that good software testing is a challenging intellectual process. While there's often a great deal of scope for automating a path after it's been trodden, it takes intent and agency to find the paths worth following and the things to look for while walking along them.
+
+When people speak of "automating the testing", they're often talking about automating the typing, or the mouse clicks, or the looking up of results in a table, and comparing it to output from the product we're testing.  But testing is far more than mashing keys and moving mice and looking stuff up.  Tools can assist us with our testing in powerful ways, but testing cannot be automated.
+
+A computer can check whether or not certain conditions are met, when programmed to do so, but only a human can make the judgment call on what checks are necessary, and when. Also, only a human can interpret the (meaning and significance of the) results, or the lack thereof, and decide whether or not we have a problem. Sometimes, a failing check, or a missing result, is the desired outcome even if, some other time, that exact same outcome would be a problem. A computer cannot make this distinction.
+
+We need to be deliberate in our thinking about how automation can help us to test and also what makes sense to automate. Perhaps there is some repetitive confirmatory work that humans currently do that is time-consuming and boring and is amenable to being implemented in code - this seems plausible as a target for automation. We'd probably want to consider effort and value factors such as the costs associated with developing and maintaining the automation, the risks it would mitigate, and the potential multipliers that it could bring, such as documenting behaviour, and being runnable in different environments.
+
+The diminutive "just" in the statement ("Let’s just automate the testing") makes it seem like such a quick and easy thing to do, a casual activity that we can engage in that takes minimal effort. Implementing automated checks requires significant human effort and should be considered as software development work in its own right.
+
+Michael Bolton has an excellent "stock" reply when someone says "Let's just automate the testing", he says: 
+
+"They presumably mean "let's just automate all the evaluation
+
+and learning
+
+and exploration
+
+and experimentation
+
+and modeling
+
+and studying of the specs
+
+and observation of the product
+
+and inference-drawing
+
+and questioning
+
+and risk assessment
+
+and prioritization
+
+and coverage analysis
+
+and pattern recognition
+
+and decision making
+
+and design of the test lab
+
+and preparation of the test lab
+
+and sensemaking
+
+and test code development
+
+and tool selection
+
+and recruiting of helpers
+
+and making test notes
+
+and preparing simulations
+
+and bug advocacy
+
+and triage
+
+and relationship building
+
+and product configuration
+
+and application of oracles
+
+and spontaneous playful interaction with the product
+
+and discovery of new information
+
+and preparation of reports for management
+
+and recording of problems
+
+and investigation of problems
+
+and working out puzzling situations
+
+and building the test team
+
+and analyzing competitors
+
+and resolving conflicting information
+
+and benchmarking
+
+and thinking critically about what could go wrong...
+
+among other things, I guess."
 
 <h3 id="context-driven-testing">Context-driven Testing</h3>
 <h3 id="career">Career</h3>
@@ -111,7 +200,8 @@ David Högberg
 <h4>J</h4>
 Klára Jánová
 <h4>K</h4>
-Jonathan Kean
+Jonathan Kean,
+Chris Kenst
 <h4>L</h4>
 Petteri Lyytinen
 <h4>M</h4>
