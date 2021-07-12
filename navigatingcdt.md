@@ -77,8 +77,16 @@ References:
 
 <h4>Isn't all testing context-driven?</h4>
 
-current open request for contributions
-    
+Existing in a context is not the same as consciously choosing how to take account of it, watching for changes, and adapting accordingly; that is, being *driven* by that context. In this sense, not all testing is context-driven.
+
+Many testers have had the experiences of not knowing why they're doing the testing they're being asked to do, not knowing who cares about the testing they're doing, and not knowing why the testing they think they should do is the right testing to do right now. These are all potential indicators that the tester and their testing is not being actively driven by the context.
+
+On a project, a context-driven tester might seek to understand what the project aims are, who needs to benefit, in what ways, and why the approach proposed is thought to be appropriate. They could wonder whether the personnel, timeframe, and tooling are likely to deliver the desired outcome, and if not why not. They will look for ways that they can contribute to the project's success under whatever constraints it has and with whatever skills they have.
+
+Testers who are taking a context-driven approach will recognise that every participant's perspective will differ to some extent, not least because we are each an integral part of our own contexts. They will try account for that by, for instance, repeated observation, applying heuristics, finding similar examples from their experience, calling on their expertise, looking for collaboration, making regular attempts to synchronise with the people who matter on the project, and aligning work with current goals and restrictions.
+
+Considering the context first and primarily is a way of overcoming best practice thinking: if the "best" practice is a poor fit for the context, context drives our choices, and both of those evolve over time (noting that context can change regularly, rapidly and often in unpredictable ways). In being mindful of the changing context in which we're testing we can proactively adapt, in doing so hopefully reducing the risks of "one size fits all" testing approaches, status quo bias and the complacency that can follow. This is the opposite of testers being "context-oblivious", using the process they know and the test level they are familiar with without considering the business needs and other important contextual factors.
+   
 <h3 id="career">Career</h3>
 
 <h2 id="acknowledgements">Acknowledgements</h2>
@@ -97,21 +105,24 @@ This book only exists thanks to the thoughtful contributions from the testing co
 Olga Aksi, 
 Emma Armstrong
 <h4>B</h4>
-Michael Bolton
+Michael Bolton,
+Carol Brands
 <h4>C</h4>
 <h4>D</h4>
 Anders Dinsen, 
 Arun Kumar Dutta
 <h4>E</h4>
 <h4>F</h4>
-Ben Fellows
+Ben Fellows,
+Marius Francu
 <h4>G</h4>
 David Greenlees
 <h4>H</h4>
 David Högberg
 <h4>I</h4>
 <h4>J</h4>
-Klára Jánová
+Klára Jánová,
+Andrew January
 <h4>K</h4>
 Jonathan Kean,
 Chris Kenst
@@ -125,11 +136,13 @@ Matt Middleton
 Eric Proegler
 <h4>Q</h4>
 <h4>R</h4>
-Alex de los Reyes
+Alex de los Reyes,
+Wayne Roseberry
 <h4>S</h4>
 Paul Seaman, 
 Karo Stoltzenburg, 
-Scott Syme
+Scott Syme,
+Damian Synadinos
 <h4>T</h4>
 James Thomas
 <h4>U</h4>
