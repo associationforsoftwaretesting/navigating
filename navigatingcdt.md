@@ -6,12 +6,12 @@
 
 [Responding to questions or statements around testing](#content)\
     &nbsp;&nbsp; [Testing](#testing)\
+    &nbsp;&nbsp; [Automation](#automation)\
+    &nbsp;&nbsp; [Context-driven Testing](#context-driven-testing)\
+    &nbsp;&nbsp; [Scripts](#scripts)\
     &nbsp;&nbsp; [Testers](#testers)\
     &nbsp;&nbsp; [Testing Status](#testing-status)\
     &nbsp;&nbsp; [Project Scheduling](#project-scheduling)\
-    &nbsp;&nbsp; [Scripts](#scripts)\
-    &nbsp;&nbsp; [Automation](#automation)\
-    &nbsp;&nbsp; [Context-driven Testing](#context-driven-testing)\
     &nbsp;&nbsp; [Career](#career)
 
 [Acknowledgements](#acknowledgements)\
@@ -49,10 +49,6 @@ No level of testing can provide certainty that the software works, so our unders
 
 (See [Appendix A](#appendixa-1) for an alternative way to respond to the statement using the "Mary had a little lamb" heuristic from Gerald Weinberg.)
 
-<h3 id="testers">Testers</h3>
-<h3 id="testing-status">Testing Status</h3>
-<h3 id="project-scheduling">Project Scheduling</h3>
-<h3 id="scripts">Scripts</h3>
 <h3 id="automation">Automation</h3>
 
 <h4>Let's just automate the testing</h4>
@@ -85,8 +81,12 @@ On a project, a context-driven tester might seek to understand what the project 
 
 Testers who are taking a context-driven approach will recognise that every participant's perspective will differ to some extent, not least because we are each an integral part of our own contexts. They will try account for that by, for instance, repeated observation, applying heuristics, finding similar examples from their experience, calling on their expertise, looking for collaboration, making regular attempts to synchronise with the people who matter on the project, and aligning work with current goals and restrictions.
 
-Considering the context first and primarily is a way of overcoming best practice thinking: if the "best" practice is a poor fit for the context, context drives our choices, and both of those evolve over time (noting that context can change regularly, rapidly and often in unpredictable ways). In being mindful of the changing context in which we're testing we can proactively adapt, in doing so hopefully reducing the risks of "one size fits all" testing approaches, status quo bias and the complacency that can follow. This is the opposite of testers being "context-oblivious", using the process they know and the test level they are familiar with without considering the business needs and other important contextual factors.
-   
+Being context-driven helps to minimise "best practice" and "one size fits all" thinking. Context can change regularly, rapidly, and often in unpredictable ways so being mindful of it encourages us to eagerly adapt, reducing the risks of status quo bias and the complacency that can follow. Context-driven is sometimes constrasted with "context-oblivious", where testing is performed using using a well-worn process and without considering the business needs and other important contextual factors.
+
+<h3 id="scripts">Scripts</h3>
+<h3 id="testers">Testers</h3>
+<h3 id="testing-status">Testing Status</h3>
+<h3 id="project-scheduling">Project Scheduling</h3>
 <h3 id="career">Career</h3>
 
 <h2 id="acknowledgements">Acknowledgements</h2>
