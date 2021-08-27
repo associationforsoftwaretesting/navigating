@@ -8,7 +8,7 @@
     &nbsp;&nbsp; [Testing](#testing)\
     &nbsp;&nbsp; [Automation](#automation)\
     &nbsp;&nbsp; [Context-driven Testing](#context-driven-testing)\
-    &nbsp;&nbsp; [Scripts](#scripts)\
+    &nbsp;&nbsp; [Scripts/test cases](#scripts)\
     &nbsp;&nbsp; [Testers](#testers)\
     &nbsp;&nbsp; [Testing Status](#testing-status)\
     &nbsp;&nbsp; [Project Scheduling](#project-scheduling)\
@@ -83,7 +83,20 @@ Testers who are taking a context-driven approach will recognise that every parti
 
 Being context-driven helps to minimise "best practice" and "one size fits all" thinking. Context can change regularly, rapidly, and often in unpredictable ways so being mindful of it encourages us to eagerly adapt, reducing the risks of status quo bias and the complacency that can follow. Context-driven is sometimes constrasted with "context-oblivious", where testing is performed using using a well-worn process and without considering the business needs and other important contextual factors.
 
-<h3 id="scripts">Scripts</h3>
+<h3 id="scripts">Scripts/test cases</h3>
+
+<h4>Do more test cases mean better test coverage?</h4>
+
+The terms "test case" and "test coverage" are so loaded; but let's say that a "test case" is a description of a procedure for setting up and observing some (set of) condition(s) that we could examine in the course of a test and use "test coverage" to refer to any of the definitions of test coverage commonly used in our industry. More test cases, provided they are not completely overlapping, mean *more* test coverage - whether that coverage is *better* or not is the deeper and more interesting question.
+
+If the test cases don't help you to uncover important bugs that matter, then how many you have is irrelevant. If they don't help to fulfil the mission of testing, then it is reasonable to say that the coverage is not better just because there are more of them (though it may well be "higher"). You can have many test cases, possibly covering a wide variety of aspects of the system being tested, but quantity doesn't equal quality. Are those tests adding value? Are they trying new things in interesting ways? Are they covering multiple dimensions of quality or just verifying requirements? Are the tests run in combination to discover potential problems with sequences of events? Are the tests run in such a way to vary the inputs (in interesting ways), or just using the same values over and over again?
+
+You could say, "No, more tests does not mean better coverage if by doing so one fails to address any of the following things..." and then begin listing off whatever risk areas, quality dimensions or other concerns the team had identified as important. A test case is simply a container for an idea of how to test. It could be helpful or unhelpful in finding out information about the product. Having more test cases isn't a meaningful measure, a larger number of bad ideas is still not helpful.
+
+Test cases might help give you ideas on what to test but it's worth remembering that the test cases themselves are not testing. If you don't actually test, there is no coverage at all. Test cases don't increase or decrease coverage, they just give specific facts in regards to some definition of coverage. You can achieve comprehensive test coverage without a single test case.
+
+So, whether having more test cases results in better test coverage really depends on how well the test cases are designed and how they address your most important concerns - and, of course, no amount of them will provide any benefit unless you actually perform the testing described in those test cases!
+
 <h3 id="testers">Testers</h3>
 <h3 id="testing-status">Testing Status</h3>
 <h3 id="project-scheduling">Project Scheduling</h3>
@@ -118,6 +131,7 @@ Marius Francu
 <h4>G</h4>
 David Greenlees
 <h4>H</h4>
+Andy Hird,
 David Högberg
 <h4>I</h4>
 <h4>J</h4>
@@ -133,9 +147,11 @@ Matt Middleton
 <h4>N</h4>
 <h4>O</h4>
 <h4>P</h4>
+Roman Podolyan,
 Eric Proegler
 <h4>Q</h4>
 <h4>R</h4>
+Bhavani Ramasubbu,
 Alex de los Reyes,
 Wayne Roseberry
 <h4>S</h4>
