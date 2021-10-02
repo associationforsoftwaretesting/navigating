@@ -73,9 +73,9 @@ References:
 
 The number of test cases and the percentage of those that are automated doesn't really provide any useful information about quality. 
 
-A question like this could be a relatively harmless example of availability biases influencing people's perception of what testing is. For some people automated tests will be the first (and perhaps only) thing that comes to mind when they hear the word "testing" (see also <a href="#letsjustautomate">"Let's just automate the testing"</a>).
+A question like this could be a relatively harmless example of [availability biases](https://thinkinsights.net/strategy/availability-heuristic/) influencing people's perception of what testing is. For some people automated tests will be the first (and perhaps only) thing that comes to mind when they hear the word "testing" (see also <a href="#letsjustautomate">"Let's just automate the testing"</a>).
     
-The term 'test case' is so vague and any meaningful percentage would need to be based on the assumption that all the test cases are somehow equal (based on some other made up metric). Such a percentage is problematic in the real world where test cases are quite different from each other in important ways. One test case may have 20 steps while another may have 2, automating one but not the other gives you a 50% rate either way. Maybe only 50% are automated, but perhaps those were the 50% that provide 95% of the coverage of regression risk, or maybe those were the 50% that comprised 75% of the execution cost.
+The term "test case" is so vague and so, when being asked for a percentage such as this, it would be reasonable to assume that a test case is a consistent/meaningful unit by some measure. Even then, such a percentage is problematic in the real world where test cases are quite different from each other in important ways. One test case may have 20 steps while another may have two, automating one but not the other gives you a 50% rate either way. Maybe only 50% are automated, but perhaps those were the 50% that provide 95% of the coverage of regression risk, or maybe those were the 50% that comprised 75% of the execution cost.
 
 The question is less meaningful, maybe even dangerous, when there is no set of scripted test cases, or the baseline is compared against tests engineers perform regularly. The behavior and outcome of an automated, scripted check of a piece of code or system is very dissimilar to what happens when a human tests a piece of code or system.
 
@@ -91,6 +91,8 @@ Faced with a question like this, it's perhaps better to reframe the conversation
 * What value do they provide to us, our team, our stakeholders and our customers?
 
 Instead of concerning ourselves with calculating percentages of tests that are automated, we should be looking more holistically at our test strategy and where automation fits into it, makes the most sense and delivers useful information. Providing a single numeric answer to this question is a missed opportunity to explore more deeply the role that automation does - and should - play in your testing approach.
+
+I'd like to see add something about delivery of business value or similar. 
 
 <h3 id="context-driven-testing">Context-driven Testing</h3>
 
