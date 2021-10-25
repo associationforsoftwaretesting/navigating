@@ -152,6 +152,7 @@ Jon Bach,
 Michael Bolton,
 Carol Brands
 <h4>C</h4>
+John Creson
 <h4>D</h4>
 Anders Dinsen, 
 Arun Kumar Dutta
@@ -160,6 +161,7 @@ Arun Kumar Dutta
 Ben Fellows,
 Marius Francu
 <h4>G</h4>
+Ashley Graf,
 David Greenlees
 <h4>H</h4>
 Andy Hird,
@@ -172,6 +174,7 @@ Andrew January
 Jonathan Kean,
 Chris Kenst
 <h4>L</h4>
+Luke Liu,
 Petteri Lyytinen
 <h4>M</h4>
 Matt Middleton
