@@ -128,6 +128,17 @@ Even with lots of good ideas about what to test, it's worth remembering that the
 So, whether having more test cases results in better test coverage really depends on how well the test cases are designed and how they address your most important concerns - and, of course, no amount of them will provide any benefit unless you actually perform the testing described in those test cases!
 
 <h3 id="testers">Testers</h3>
+
+<h4>Stop saying "it depends" when I ask you a question</h4>
+
+You might hear that context-driven testers answer every question with "it depends". But just saying "it depends" and leaving it at that isn't the response a capable (context-driven) tester would actually give, since our intention as excellent testers is to provide useful information to help make decisions.
+
+The answer to whatever question they have or request they've made is likely to be different depending on different factors. So, our job is to be truthful - that the answer does indeed *depend* on context - by clarifying how, why and on what *it depends*. 
+
+By leading with "it depends", you help the questioner understand that they have posed a question that lacks sufficient information needed to provide a decent answer. You might follow with a clarifying question or two to refine your understanding of what information they are actually looking for or your analysis of what options are available. In composing an answer to the question, use your experience and context to decide which variables matter to the questioner at this time. You will need to make assumptions about how much time they have, how deep they want to go, how much they care, and what they will do with the data. All of this reasoning is necessarily imprecise because you don't know what their need is, or what they plan to do with your answer. Sometimes you can ask clarifying questions but choose these with care.
+
+Initiating your response with "it depends" is a way to indicate that you're thinking about contextual factors that will influence your answer, setting you up for the opportunity to clarify how, why and on what your response depends.
+
 <h3 id="testing-status">Testing Status</h3>
 <h3 id="project-scheduling">Project Scheduling</h3>
 <h3 id="career">Career</h3>
