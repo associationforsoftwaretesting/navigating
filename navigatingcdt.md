@@ -131,13 +131,13 @@ So, whether having more test cases results in better test coverage really depend
 
 <h4>Stop saying "it depends" when I ask you a question</h4>
 
-You might hear that context-driven testers answer every question with "it depends". But just saying "it depends" and leaving it at that isn't the response a capable (context-driven) tester would actually give, since our intention as excellent testers is to provide useful information to help make decisions.
+"It depends" is a truthful answer to many questions in any non-trivial context but, unfortunately, it's not usually a very helpful answer. Our aim, as context-driven testers, is to be truthful but also clarify how, why and on what our answer depends. 
 
-The answer to whatever question they have or request they've made is likely to be different depending on different factors. So, our job is to be truthful - that the answer does indeed *depend* on context - by clarifying how, why and on what *it depends*. 
+By leading with "it depends", you flag to the questioner that they have not given sufficient information for you to provide a decent answer. You might follow with a clarifying question or two to refine your understanding of what information they are actually looking for or your analysis of what options are available. Take care when responding to a question with a question because, as you've doubtless found, many people in business have little patience for nuanced conversation. 
 
-By leading with "it depends", you help the questioner understand that they have posed a question that lacks sufficient information needed to provide a decent answer. You might follow with a clarifying question or two to refine your understanding of what information they are actually looking for or your analysis of what options are available. In composing an answer to the question, use your experience and context to decide which variables matter to the questioner at this time. You will need to make assumptions about how much time they have, how deep they want to go, how much they care, and what they will do with the data. All of this reasoning is necessarily imprecise because you don't know what their need is, or what they plan to do with your answer. Sometimes you can ask clarifying questions but choose these with care.
+In composing an answer to the question, use your experience and the context to decide which variables matter to the questioner. You will need to make assumptions about how much time they have, how deep they want to go, and how much they care. All of this reasoning is necessarily imprecise because you don't know what their need is, or what they plan to do with your answer. 
 
-Initiating your response with "it depends" is a way to indicate that you're thinking about contextual factors that will influence your answer, setting you up for the opportunity to clarify how, why and on what your response depends.
+Initiating your response with "it depends" is a way to indicate that you're thinking about contextual factors that will influence your answer. Following it with an appropriate summary of the perceived important variables and their potential consequences, while being ready to add depth or clarification, will signal that you are a valuable contributor and collaborator. As the context-driven principles say: people, working together, are the most important part of any project's context. 
 
 <h3 id="testing-status">Testing Status</h3>
 <h3 id="project-scheduling">Project Scheduling</h3>
