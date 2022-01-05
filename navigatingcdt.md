@@ -170,6 +170,7 @@ Arun Kumar Dutta
 <h4>E</h4>
 <h4>F</h4>
 Ben Fellows,
+Elizabeth Fiennes, 
 Marius Francu
 <h4>G</h4>
 Ashley Graf,
@@ -190,8 +191,10 @@ Petteri Lyytinen
 <h4>M</h4>
 Matt Middleton
 <h4>N</h4>
+Chris NeJame
 <h4>O</h4>
 <h4>P</h4>
+Rahul Parwal, 
 Roman Podolyan,
 Eric Proegler, 
 Maaret Pyhäjärvi
@@ -202,6 +205,7 @@ Alex de los Reyes,
 Wayne Roseberry
 <h4>S</h4>
 Paul Seaman, 
+Nicholas Snogren, 
 Ady Stokes,
 Karo Stoltzenburg, 
 Scott Syme,
