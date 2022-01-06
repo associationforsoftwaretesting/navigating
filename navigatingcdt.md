@@ -141,6 +141,23 @@ Initiating your response with "it depends" is a way to indicate that you're thin
 
 <h3 id="testing-status">Testing Status</h3>
 <h3 id="project-scheduling">Project Scheduling</h3>
+
+<h4>Testing is a bottleneck</h4>
+
+The statement that "testing is a bottleneck" warrants deeper investigation to determine whether what's being claimed is in fact a testing problem, whether a genuine bottleneck actually even exists, or whether other issues are at play.
+
+Let's take a definition of bottleneck (from Investopedia.com): "A bottleneck is a point of congestion in a production system (such as an assembly line or a computer network) that occurs when workloads arrive too quickly for the production process to handle." 
+
+If testing is a bottleneck in this sense, then we need to think about why the testing is taking a long time. Are the testers working inefficiently? Are there enough of them to handle the workloads at the required speed? Are there testability issues within the product/application/system? Is there simply too much development work being passed to testers and they are understaffed? 
+
+Are there processes that are slowing the team down? One common time consuming part of a slow testing process is the demand that certain checks or scenarios must be repeated every time something new is about to be released. Having skilled and thoughtful testers working closely with developers and letting testing activities happen simultaneously and in coordination with both those who formulate visions for the product and those who expand the codebase will make learning happen faster. Don't turn testers into slow robotic vacuum cleaners who follow marked paths through your application - let them actively look for the dirt instead. And if they find a lot of bugs that slows down the pace of development, that doesn't mean that testing is a bottleneck.
+
+Maybe it just seems from management's perspective that nothing gets tested, or does not get tested quickly enough. Is the reporting process unhelpful? Are management not giving testing the priority it needs?
+
+There is also the definition of bottleneck as "someone or something that retards or halts free movement and progress". It could mean that testing as an activity in and of itself is resented. Maybe testing is seen as getting in the way of 'getting valuable updates into the hands of our users quickly' or the idea of shipping code as fast as possible is seen as more valuable than having high confidence in the stability of the code. Testing is seen as restrictive and unnecessary. In this case, it's not testing that's the bottleneck; if anything is a bottleneck, it's prudence. Prudence is the neck on the bottle of what otherwise might be reckless delivery. A bottle might contain wine, vinegar, buttons, nuts and bolts, or sulfuric acid. Prudence helps to prevent our ambitions and our shoddy work from gushing out all over the place and burning people.
+
+So, is testing a bottleneck? It might be, but the complaint (as the statement typically seems to be framed) may be more about other things and not solely about testing.It's worth digging deeper to find out if there's a problem related to testing and whether a bottleneck actually even exists.
+
 <h3 id="career">Career</h3>
 
 <h2 id="acknowledgements">Acknowledgements</h2>
