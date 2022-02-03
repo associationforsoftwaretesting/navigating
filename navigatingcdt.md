@@ -180,6 +180,7 @@ This book only exists thanks to the thoughtful contributions from the testing co
 Olga Aksi, 
 Emma Armstrong
 <h4>B</h4>
+James Bach, 
 Jon Bach,
 Michael Bolton,
 Carol Brands
@@ -200,6 +201,7 @@ David Greenlees
 Andy Hird,
 David Högberg
 <h4>I</h4>
+Sandro Ibig
 <h4>J</h4>
 Klára Jánová,
 Andrew January
