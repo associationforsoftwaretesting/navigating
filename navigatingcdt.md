@@ -106,6 +106,38 @@ Testers who are taking a context-driven approach will recognise that every parti
 
 Being context-driven helps to minimise "best practice" and "one size fits all" thinking. Context can change regularly, rapidly, and often in unpredictable ways so being mindful of it encourages us to eagerly adapt, reducing the risks of status quo bias and the complacency that can follow. Context-driven is sometimes constrasted with "context-oblivious", where testing is performed using using a well-worn process and without considering the business needs and other important contextual factors.
 
+<h4>What's the difference between context-driven testing and exploratory testing?</h4>
+
+Context-driven testing is a school of thought that focuses on how good testing can fit into software projects, while exploratory testing is an approach to performing the testing.
+
+By way of reminder, the seven principles of the Context-Driven School<sup>1</sup> are: 
+
+* The value of any practice depends on its context.
+* There are good practices in context, but there are no best practices.
+* People, working together, are the most important part of any project's context.
+* Projects unfold over time in ways that are often not predictable.
+* The product is a solution. If the problem isn't solved, the product doesn't work.
+* Good software testing is a challenging intellectual process.
+* Only through judgment and skill, exercised cooperatively throughout the entire project, are we able to do the right things at the right times to effectively test our products.
+
+The "context-driven" part of context-driven testing is about where you're situated in the project community. It is the recognition that the surrounding circumstances in which we're testing affect the way we need to approach that testing. It is premised on an aspiration to deal with and respond to the context first.  (This is not the same as being context-aware; the difference is that context-aware testers would acknowledge and respond to the context, but *not* do so first.)
+
+While there are many definitions of "exploratory testing", they generally highlight the importance of learning and the need for the tester to have agency. James Bach and Michael Bolton have recently dropped the "exploratory" label because to them all testing is exploratory<sup>2</sup> (though they still might explicitly use "exploratory" to highlight when they are referring to the more informal end of their Testing Formality Continuum<sup>3</sup>). Elisabeth Hendrickson presents a useful introduction to exploratory testing in her "Explore It? Explore It!" YouTube video<sup>4</sup>.
+
+Exploratory testing does not dictate a context-driven approach and it is certainly possible to test in an exploratory way without helping the project at all. One such situation might involve a tester getting deeply interested in some little-used aspect of a product's behaviour and neglecting any other testing despite requests from colleagues not to do so.
+
+Context-driven testing is a community, an approach and paradigm around testing. Exploratory testing is an approach to performing testing focused on learning and tester agency.
+
+References:
+
+[1] [Context-Driven Testing](https://context-driven-testing.com/)
+
+[2] James Bach & Michael Bolton [Exploratory Testing 3.0](https://www.satisfice.com/blog/archives/1509)
+
+[3] Michael Bolton [Breaking the Test Case Addiction (Part 3)](https://www.developsense.com/blog/2019/01/breaking-the-test-case-addiction-part-3/)
+
+[4] Elisabeth Hendrickson [Explore It? Explore It! video](https://www.youtube.com/watch?v=9FKY1Is0lgs)
+
 <h3 id="scripts">Scripts/test cases</h3>
 
 <h4>Do more test cases mean better test coverage?</h4>
