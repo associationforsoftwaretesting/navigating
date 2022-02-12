@@ -57,17 +57,13 @@ While automation can be a valuable tool in testing, it can't replace the human.
 
 A context-driven tester believes that good software testing is a challenging intellectual process. While there's often a great deal of scope for automating a path after it's been trodden, it takes intent and agency to find the paths worth following and the things to look for while walking along them. 
 
-When people speak of "automating the testing", they're often talking about automating the typing, or the mouse clicks, or the looking up of results in a table, and comparing it to output from the product we're testing. But testing is far more than mashing keys and moving mice and looking stuff up. Tools can assist us with our testing in powerful ways, but testing cannot be automated.
+When people speak of "[automating the testing](https://www.developsense.com/blog/2017/04/deeper-testing-2-automating-the-testing/)", they're often talking about automating the typing, or the mouse clicks, or the looking up of results in a table, and comparing it to output from the product we're testing. But testing is far more than mashing keys and moving mice and looking stuff up. Tools can assist us with our testing in powerful ways, but testing cannot be automated.
 
 A computer can check whether or not certain conditions are met, when programmed to do so, but only a human can make the judgment call on what checks are necessary, and when. Also, only a human can interpret the (meaning and significance of the) results, or the lack thereof, and decide whether or not we have a problem. Sometimes, a failing check, or a missing result, is the desired outcome even if, some other time, that exact same outcome would be a problem. A computer cannot make this distinction.
 
 We need to be deliberate in our thinking about how automation can help us to test and also what makes sense to automate. Perhaps there is some repetitive confirmatory work that humans currently do that is time-consuming and boring and is amenable to being implemented in code - this seems plausible as a target for automation. We'd probably want to consider effort and value factors such as the costs associated with developing and maintaining the automation, the risks it would mitigate, and the potential multipliers that it could bring (such as documenting behaviour, and being runnable in different environments).
 
 The diminutive "just" in the statement ("Let's just automate the testing") makes it seem like such a quick and easy thing to do, a casual activity that we can engage in that takes minimal effort. Implementing automated checks requires significant human effort and should be considered as software development work in its own right.
-
-References:
-
-* Michael Bolton [Deeper Testing (2): Automating the Testing](https://www.developsense.com/blog/2017/04/deeper-testing-2-automating-the-testing/)
 
 <h4>What percentage of our test cases are automated?</h4>
 
@@ -108,9 +104,9 @@ Being context-driven helps to minimise "best practice" and "one size fits all" t
 
 <h4>What's the difference between context-driven testing and exploratory testing?</h4>
 
-Context-driven testing is a school of thought that focuses on how good testing can fit into software projects, while exploratory testing is an approach to performing the testing.
+Context-driven testing is a paradigm that focuses on how good testing can fit into software projects, while exploratory testing is an approach to performing the testing.
 
-By way of reminder, the seven principles of the Context-Driven School<sup>1</sup> are: 
+By way of reminder, the seven principles of the [Context-Driven School](https://context-driven-testing.com/) are: 
 
 * The value of any practice depends on its context.
 * There are good practices in context, but there are no best practices.
@@ -122,21 +118,11 @@ By way of reminder, the seven principles of the Context-Driven School<sup>1</sup
 
 The "context-driven" part of context-driven testing is about where you're situated in the project community. It is the recognition that the surrounding circumstances in which we're testing affect the way we need to approach that testing. It is premised on an aspiration to deal with and respond to the context first.  (This is not the same as being context-aware; the difference is that context-aware testers would acknowledge and respond to the context, but *not* do so first.)
 
-While there are many definitions of "exploratory testing", they generally highlight the importance of learning and the need for the tester to have agency. James Bach and Michael Bolton have recently dropped the "exploratory" label because to them all testing is exploratory<sup>2</sup> (though they still might explicitly use "exploratory" to highlight when they are referring to the more informal end of their Testing Formality Continuum<sup>3</sup>). Elisabeth Hendrickson presents a useful introduction to exploratory testing in her "Explore It? Explore It!" YouTube video<sup>4</sup>.
+While there are many definitions of "exploratory testing" and they continue to evolve, they generally highlight the importance of learning and the need for the tester to have agency.  For example, Maaret Pyhäjärvi has coined the term "[contemporary exploratory testing](https://visible-quality.blogspot.com/2021/01/contemporary-exploratory-testing.html)", while James Bach and Michael Bolton have now dropped the "exploratory" label because to them [all testing is exploratory](https://www.satisfice.com/blog/archives/1509) (though they still might explicitly use "exploratory" to highlight when they are referring to the more informal end of their [Testing Formality Continuum](https://www.developsense.com/blog/2019/01/breaking-the-test-case-addiction-part-3/). Elisabeth Hendrickson presents a useful introduction to exploratory testing in her ["Explore It? Explore It!" YouTube video](https://www.youtube.com/watch?v=9FKY1Is0lgs).
 
 Exploratory testing does not dictate a context-driven approach and it is certainly possible to test in an exploratory way without helping the project at all. One such situation might involve a tester getting deeply interested in some little-used aspect of a product's behaviour and neglecting any other testing despite requests from colleagues not to do so.
 
 Context-driven testing is a community, an approach and paradigm around testing. Exploratory testing is an approach to performing testing focused on learning and tester agency.
-
-References:
-
-[1] [Context-Driven Testing](https://context-driven-testing.com/)
-
-[2] James Bach & Michael Bolton [Exploratory Testing 3.0](https://www.satisfice.com/blog/archives/1509)
-
-[3] Michael Bolton [Breaking the Test Case Addiction (Part 3)](https://www.developsense.com/blog/2019/01/breaking-the-test-case-addiction-part-3/)
-
-[4] Elisabeth Hendrickson [Explore It? Explore It! video](https://www.youtube.com/watch?v=9FKY1Is0lgs)
 
 <h3 id="scripts">Scripts/test cases</h3>
 
