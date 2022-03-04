@@ -209,6 +209,7 @@ Anders Dinsen,
 Arun Kumar Dutta
 <h4>E</h4>
 <h4>F</h4>
+João Farias, 
 Ben Fellows,
 Elizabeth Fiennes, 
 Marius Francu
@@ -217,7 +218,8 @@ Ashley Graf,
 David Greenlees
 <h4>H</h4>
 Andy Hird,
-David Högberg
+David Högberg,
+Paul Holland
 <h4>I</h4>
 Sandro Ibig
 <h4>J</h4>
