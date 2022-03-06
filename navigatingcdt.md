@@ -180,6 +180,27 @@ There is also the definition of bottleneck as "someone or something that retards
 
 So, is testing a bottleneck? It might be, but the complaint (as the statement typically seems to be framed) may be more about other things and not solely about testing. It's worth digging deeper to find out if there's a problem related to testing and whether a bottleneck actually even exists.
 
+<h4>Will the testing be done by Friday?</h4>
+
+Testing *can* be done by Friday, depending on what we mean by "testing" and especially what we understand by saying it's "done". We'll see that this question often really boils down to how we make decisions about when to stop testing.
+
+This question can be interpreted in a number of different ways.
+
+If the question relates to some prior discussion about scenarios we've agreed to run through before Friday then we can base an answer on the experience gathered so far. How similar are the scenarios to each other, how long has each taken to set up and explore, what kinds of issues have been found, how many of them do we want to fix, how long will fixes take to deliver and so on. We may have agreed ahead of time about a specific set of testing activities to complete by Friday, but there's no guarantee that this set of activities will be completed. It also doesn't guarantee that, at the completion of those activities, everyone will be satisfied that testing is sufficiently "done."
+
+The question might imply that Friday represents a new deadline or at least that there's something important about Friday. We can stop testing by Friday but need to remind the questioner that, in general, testing isn't "done" done, because there's always another question, another set of constraints or another variable that we could consider. Whether we will have covered all the things we (as a group) consider important by Friday is a different question, not least because we don't know what problems we'll find between now and Friday. However, knowing that Friday is a deadline we can have a chat about what areas to priortise that would give us the best chance of finding the most useful information for the project in the time we have.
+
+Perhaps the most likely interpretation of the question is as a request for status and whether some kind of agreed test report will be available by Friday. As testers we should be able to clearly communicate testing status in terms of:
+
+* The areas we've looked at so far, from which perspectives and to what depth
+* The kinds of problems we've found, and the perceived importance of them
+* The risks we are aware of, some sense of their likelihood given what we know and any open questions
+* Any impediments to doing our best testing work
+
+We should be ready to report such status by Friday - or at any other time it's requested of us. Whether or not the testing is "done" is a matter of making a decision. The decision to stop testing does not lie with the testers but with the stakeholders based on the information provided by the testers. The decision to continue testing (or not) should be made by the entire team and the stakeholders after reviewing the test report.
+
+Testing could be "done" in an hour, or in a week or in a month, depending on what testing we perform and what it means to call that testing "done". The answer to the original question is more than a "yes" or "no" - a context-driven tester would look to find out what's really being requested by digging deeper to understand the motivation for the question to help provide a more contextual, meaningful and valuable answer.
+
 <h3 id="career">Career</h3>
 
 <h2 id="acknowledgements">Acknowledgements</h2>
