@@ -193,7 +193,7 @@ The question might imply that Friday represents a new deadline or at least that 
 Perhaps the most likely interpretation of the question is as a request for status and whether some kind of agreed test report will be available by Friday. As testers we should be able to clearly communicate testing status in terms of:
 
 * The areas we've looked at so far, from which perspectives and to what depth
-* The kinds of problems we've found, and the perceived importance of them
+* The kinds of problems we've found and the perceived importance of them
 * The risks we are aware of, some sense of their likelihood given what we know and any open questions
 * Any impediments to doing our best testing work
 
