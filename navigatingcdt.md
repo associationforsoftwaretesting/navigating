@@ -248,7 +248,9 @@ Klára Jánová,
 Andrew January
 <h4>K</h4>
 Jonathan Kean,
-Chris Kenst
+Chris Kenst,
+Rachel Kibler,
+Joel Kruse
 <h4>L</h4>
 Luke Liu,
 Petteri Lyytinen
