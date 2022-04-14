@@ -158,6 +158,26 @@ In composing an answer to the question, use your experience and the context to d
 Initiating your response with "it depends" is a way to indicate that you're thinking about contextual factors that will influence your answer. Following it with an appropriate summary of the perceived important variables and their potential consequences, while being ready to add depth or clarification, will signal that you are a valuable contributor and collaborator. As the context-driven principles say: people, working together, are the most important part of any project's context. 
 
 <h3 id="testing-status">Testing Status</h3>
+
+<h4>We need some productivity metrics from testers</h4>
+
+We understand that testers are knowledge workers and so traditional, simple measures of productivity do not apply. A social problem as complex as productivity cannot be assessed with numbers alone.
+
+When asked for metrics, it's important to understand:
+
+* Why the metrics are wanted
+* What decisions will these metrics support
+* What are the behaviors you want to encourage
+* Who needs them
+* How they will be used, and 
+* For everyone involved to understand the potential ways in which the data could be flawed, leading to likewise flawed conclusions.
+
+In his essay [Knowledge-Worker Productivity: The Biggest Challenge](https://ams-forschungsnetzwerk.at/downloadpub/knowledge_workers_the_biggest_challenge.pdf), Peter F. Drucker contrasts knowledge work with manual work to show how traditional, simple, measures of productivity such as the number of identical widgets produced per hour cannot apply directly to knowledge work. How do you "count" thinking and evaluating? It is very easy to produce useless and misleading metrics - such as hours of availability, bug counts and test case counts - that are easily gamed and are bad indicators of value and productivity.
+
+It might be useful to find out if the questioner has some thoughts on what a productive tester looks like or whether they have some concerns about existing tester productivity. You could perhaps remind them to read the test reports/code commits coming from testers. If the question really reflects a lack of trust in testers, then discussing those trust issues is likely far more important than any metrics the testers could provide. The question may  also reflect a genuine concern that the testers are being distracted from the job at hand, in which case the testers could provide some metrics, such as the hours actually spent testing in the working day - but these would, again, need to form part of a wider conversation.
+
+Measuring knowledge workers' productivity is a difficult task and every metric we use might have adverse side effects we need to take into consideration. We can measure and improve certain behaviours, but they probably won't be directly linked to "productivity". It might be easier - and more impactful - to measure the engineering group as a whole, focusing on the business impact, rather then trying to optimize the testing activity separated from the rest of the tangle of creating a product.
+
 <h3 id="project-scheduling">Project Scheduling</h3>
 
 <h4>Testing is a bottleneck</h4>
