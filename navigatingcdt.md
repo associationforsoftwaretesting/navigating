@@ -102,6 +102,22 @@ Testers who are taking a context-driven approach will recognise that every parti
 
 Being context-driven helps to minimise "best practice" and "one size fits all" thinking. Context can change regularly, rapidly, and often in unpredictable ways so being mindful of it encourages us to eagerly adapt, reducing the risks of status quo bias and the complacency that can follow. Context-driven is sometimes constrasted with "context-oblivious", where testing is performed using using a well-worn process and without considering the business needs and other important contextual factors.
 
+<h4>There are no best practices, really?</h4>
+
+One of the context-driven testing principles reminds us that:
+
+*There are good practices in context, but there are no best practices.*
+
+Context is crucial. An approach that works for you, for this problem, today might not work for me, or for an apparently identical problem, or on another day. 
+
+"Best" is often intended subjectively (as in "in my opinion"), or in some implied context (as in "in some specific situation"), or as hyperbole (as in "it is really good"). But there are real, practical, benefits to taking the perspective that there are no best practices. The primary gain is that it can help us to make an informed choice, balanced across competing needs and constraints, given what we know at the time.
+
+"No best practices" doesn't mean that no practice can ever be reused. We shouldn't assume that we are smarter than everyone else - ignoring widely used practices is not something to be done lightly. What is important is that we understand the prerequisites, benefits and drawbacks of each approach we consider employing and adjust it to meet our specific situation.
+
+Although it might sound like "considering the context" is itself a best practice, we can conceive of situations in which stopping to take account of the context might be the wrong thing to do; for example, in life-or-death situations where you must simply act.
+
+So, while we could choose a charitable interpretation when we hear the term "best practice" being used - rather than the speaker really meaning "the most excellent, effective, or desirable, always, everywhere" - we benefit from thinking instead of good practices in context, reminding us to make a more considered choice in the unique situation we find ourselves in.
+
 <h4>What's the difference between context-driven testing and exploratory testing?</h4>
 
 Context-driven testing is a paradigm that focuses on how good testing can fit into software projects, while exploratory testing is an approach to performing the testing.
