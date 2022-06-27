@@ -49,6 +49,40 @@ No level of testing can provide certainty that the software works, so our unders
 
 (See [Appendix A](#appendixa-1) for an alternative way to respond to the statement using the "Mary had a little lamb" heuristic from Gerald Weinberg.)
 
+<h4>Why didn't you find those issues before we shipped?</h4>
+
+While there are many reasons why issues find their way into released software (and we expect this to happen), we should first note that we have a collective responsibility - from management down - for what we deliver. A healthy organization will be able to use this question as a means to analyze and reflect on their methods, procedures and practices.
+
+We may have missed issues before we shipped because:
+
+* We didn't look, or
+* We didn't look in the right places, or
+* We looked in the right places but didn't provoke the issue, or
+* We looked in the right places and provoked the issue, but didn't realise
+* We looked in the right places, and provoked the issue, and realised, but didn't understand the impact
+
+There are many possible reasons for the above:
+
+* Our ideas of what to review didn't cover this
+* Our risk assessment prioritised other areas
+* Our budget didn't permit us to test all of the places we thought of
+* Our ability to control the product behaviour is limited
+* Our visibility of the product behaviour is limited
+* Our access to environments in which to test is limited
+
+And we could explain some of these reasons:
+
+* We didn't understand the domain implications
+* We didn't understand something important about how our customers would use the product
+* We didn't understand the code to a relevant depth or breadth
+* We didn't understand the requirements, implicit or explicit
+* We made some assumptions that were invalid
+* We didn't spend enough time with enough perspectives to think of this possibility
+* We didn't place a high value on checking our work relative to building it
+* We didn't place a high value on checking our work relative to shipping it
+
+Mistakes happen because humans are fallible. However, we can learn with the aim of improving when we all share responsibility and avoid the blame game. So a better version of this question might be "Could we examine as a group why these issues were missed before we shipped the product, so that we in future can ship a better quality product to our customers? I would like you to be honest with me, and not hold anything back."
+
 <h3 id="automation">Automation</h3>
 
 <h4 id="letsjustautomate">Let's just automate the testing</h4>
