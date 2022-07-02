@@ -51,7 +51,9 @@ No level of testing can provide certainty that the software works, so our unders
 
 <h4>Why didn't you find those issues before we shipped?</h4>
 
-While there are many reasons why issues find their way into released software (and we expect this to happen), we should first note that we have a collective responsibility - from management down - for what we deliver. A healthy organization will be able to use this question as a means to analyze and reflect on their methods, procedures and practices.
+There are many reasons why issues find their way into released software - and we expect this to happen.
+
+We should first note that we have a collective responsibility - from management down - for what we deliver. A healthy organization will be able to use this question as a means to analyze and reflect on their methods, procedures and practices.
 
 We may have missed issues before we shipped because:
 
