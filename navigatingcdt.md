@@ -299,6 +299,7 @@ Carol Brands
 John Creson
 <h4>D</h4>
 Anders Dinsen, 
+Mirek Dlugosz, 
 Arun Kumar Dutta
 <h4>E</h4>
 <h4>F</h4>
@@ -343,6 +344,7 @@ Alex de los Reyes,
 Wayne Roseberry
 <h4>S</h4>
 Paul Seaman, 
+Huib Schoots, 
 Nicholas Snogren, 
 Ady Stokes,
 Karo Stoltzenburg, 
