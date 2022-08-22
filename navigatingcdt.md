@@ -275,6 +275,23 @@ Testing could be "done" in an hour, or in a week or in a month, depending on wha
 
 <h3 id="career">Career</h3>
 
+<h4>For your annual review, I’ll need to see evidence of what you produced this year</h4>
+
+Testers are not making widgets identical to some tolerance margin at a predetermined rate on a production line, so it can be challenging for testers to demonstrate their achievements and provide evidence of their output at annual reviews. 
+
+Testing is an information service on software quality that helps the team make better, more informed decisions. For evidence, you could show the information that was communicated to the rest of the team. This could be test summary reports that include what was tested, how it was tested and what was found out (including the most serious problems).
+
+You could also provide test plans, bug reports, test strategy mind maps, test designs, test notes, risk assessments, emails, messages, minutes of meetings, code that you've written to extend your testing capabilities, review comments on documents and Jira tickets, and so on. You should be mindful that it can be hard to relate these types of evidence to the context in which they were produced, especially over such a long timeframe.
+
+It is worth suggesting that the appraising manager ask your team members how valuable you were as a tester or what you were like to work with. If you've done your job well, they can give a first-hand account of how you've made a big difference through the communication of insightful, timely information.
+
+You could suggest that, while outputs are important, questions about your approach to work, the outcomes of your work, and the satisfaction of customers with your work might also be interesting. For example, the knowledge and context that you bring to conversations about what we're building and how we're building it, the collaboration that you have with other members of the team on their work, the process improvements that you've initiated and so on are likely all evidence of a job well done.
+
+It can be difficult to summarize a whole year of achievements and contributions to satisfy such a request, so consider asking your manager for opportunities to show your value in small increments on a regular basis rather than annually. You can show evidence of your contributions by providing outputs like the ones suggested above and also by gathering feedback from those you collaborate with.
+
+If you're looking for prompts for recording your great work through the year in readiness for reviews, Julia Evans recommends writing a [brag document](https://jvns.ca/blog/brag-documents/)!
+
+
 <h2 id="acknowledgements">Acknowledgements</h2>
 
 <h3 id="the-association-for-software-testing">The Association for Software Testing</h3>
