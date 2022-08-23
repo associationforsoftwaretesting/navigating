@@ -277,9 +277,9 @@ Testing could be "done" in an hour, or in a week or in a month, depending on wha
 
 <h4>For your annual review, I’ll need to see evidence of what you produced this year</h4>
 
-Testers are not making widgets identical to some tolerance margin at a predetermined rate on a production line, so it can be challenging for testers to demonstrate their achievements and provide evidence of their output at annual reviews. 
+As knowledge workers, it can be challenging for testers to demonstrate their achievements and provide evidence of their output at annual reviews. 
 
-Testing is an information service on software quality that helps the team make better, more informed decisions. For evidence, you could show the information that was communicated to the rest of the team. This could be test summary reports that include what was tested, how it was tested and what was found out (including the most serious problems).
+Testing is an information service on software quality that helps the team make more informed decisions. The process in your organisation might require you to produce evidence of the service you've provided, so you could show the information that was communicated to the rest of the team. This could be test summary reports that include what was tested, how it was tested and what was found out (including the most serious problems).
 
 You could also provide test plans, bug reports, test strategy mind maps, test designs, test notes, risk assessments, emails, messages, minutes of meetings, code that you've written to extend your testing capabilities, review comments on documents and Jira tickets, and so on. You should be mindful that it can be hard to relate these types of evidence to the context in which they were produced, especially over such a long timeframe.
 
