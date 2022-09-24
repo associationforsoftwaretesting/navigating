@@ -313,7 +313,8 @@ Jon Bach,
 Michael Bolton,
 Carol Brands
 <h4>C</h4>
-John Creson
+John Creson,
+Stu Crock
 <h4>D</h4>
 Anders Dinsen, 
 Mirek Dlugosz, 
@@ -352,10 +353,12 @@ Chris NeJame
 <h4>P</h4>
 Rahul Parwal, 
 Roman Podolyan,
+Simon Prior,
 Eric Proegler, 
 Maaret Pyhäjärvi
 <h4>Q</h4>
 <h4>R</h4>
+Venkat Ramakrishnan,
 Bhavani Ramasubbu,
 Alex de los Reyes,
 Wayne Roseberry
