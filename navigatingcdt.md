@@ -199,6 +199,28 @@ So, whether having more test cases results in better test coverage really depend
 
 <h3 id="testers">Testers</h3>
 
+<h4>What's the right ratio of developers to testers?</h4>
+
+There are so many factors that can influence the answer to this question that it simply doesn't make sense to talk of an "industry standard" ratio.
+
+Some factors that can influence the developer:tester ratio include:
+
+* The type of work the team does (greenfield, maintenance, integration, research, etc.)
+* The mix of personnel (experienced, expert, newbie, enthusiastic, completer-finisher, creative, etc.) 
+* The skills of the team members (development, testing, architecture, co-ordination, leadership, etc.)
+* The team's familiarity (with the tech, with the domain, with the customer's system and with each other.)
+* The timeline for the product
+* The software development process used to develop the product (e.g. are good development practices such as unit testing, static code analysis, code reviews, etc. in place?)
+* Any regulatory requirements that need to be met
+* The inherent testability of the product
+* The level of automation (reducing the amount of regression testing performed by humans, perhaps)
+
+It's important to consider factors such as the above when determining team structure. Furthermore, particularly in agile teams, the team members are usually more [T-shaped](https://en.wikipedia.org/wiki/T-shaped_skills) in terms of their skills and developers will have responsibility for some types of testing. This makes it hard to delineate "developer" and "tester" when it comes to the testing activities being performed in the team.
+
+If you really need to get a quick estimate for setting up a new team, then a reasonable strategy would be to get numbers from ongoing projects, assume nothing much will change about how projects are set up in the coming 12 months, and use that as the basis for your response. But you really should be taking into account the unique set of factors comprising the context of the team and product to decide on your ideal team make up.
+
+It's likely that talking to the team members and looking carefully at its practices, its interfaces with other teams, the business, and so on is a better way to work out a good balance of developers and testers than waving some arbitrary and context-free mathematical wand. Focus less on targetting a certain ratio and more on determining how much you want to learn about the product and how to accomplish that. This will determine who does what testing and how many of each kind of team member you need - and this will almost certainly differ from project to project.
+
 <h4>Stop saying "it depends" when I ask you a question</h4>
 
 "It depends" is a truthful answer to many questions in any non-trivial context but, unfortunately, it's not usually a very helpful answer. Our aim, as context-driven testers, is to be truthful but also clarify how, why and on what our answer depends. 
