@@ -233,6 +233,22 @@ Initiating your response with "it depends" is a way to indicate that you're thin
 
 <h3 id="testing-status">Testing Status</h3>
 
+<h4>What's the best testing metric?</h4>
+
+Much like [there aren't universal best practices](#there-are-no-best-practices-really), there is no single "best" metric. 
+
+A metric is a model or system of measurement. Testing is an open-ended analysis and so not usually something worth measuring in and of itself, especially not without a strong relationship to the product being tested.
+
+Metrics can deliver insights by delivering data to help people or teams progress or improve. It makes sense to define goals that testing should help to achieve, e.g. faster development cycles, less rework, fewer rollbacks, more informed decision making, or reaching compliance. Each of these goals (and more) have some aspect that testing can help to address and, since improving them is the real goal, there's no need to measure testing separately.
+
+A generally good metric for testing could be:
+
+*The extent to which the people who matter are satisfied with what they're getting from the testing, given what it costs.*
+
+Assessments of the happiness and morale of your team are also important metrics (and not just for testing teams).
+
+Even if some testing metrics might be useful, they can't be equally useful for every team or organisation in all contexts. Focus instead on what a good testing metric looks like in your context and how it can help you to improve.
+
 <h4>We need some productivity metrics from testers</h4>
 
 We understand that testers are knowledge workers and so traditional, simple measures of productivity do not apply. A concept as complex as productivity cannot be assessed with numbers alone.
