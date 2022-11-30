@@ -373,6 +373,7 @@ Paul Holland
 <h4>I</h4>
 Sandro Ibig
 <h4>J</h4>
+Katharina Jaks, 
 Klára Jánová,
 Andrew January
 <h4>K</h4>
@@ -403,6 +404,7 @@ Wayne Roseberry
 <h4>S</h4>
 Paul Seaman, 
 Huib Schoots, 
+Djuka Selendic,
 Nicholas Snogren, 
 Ady Stokes,
 Karo Stoltzenburg, 
