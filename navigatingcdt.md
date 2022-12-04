@@ -53,11 +53,11 @@ No level of testing can provide certainty that the software works, so our unders
 
 Requirements come in many different shapes and sizes. While checking (explicit) requirements can be important, testing has much more to offer than just demonstrating that the software fulfils such requirements.
 
-Many companies consider written requirements as their only requirements. They have elaborate methods to track their written requirements and ensure that there are tests executed against those requirements. This is a very narrow (and hopeful) view of requirements. The majority of requirements are implicit and fuzzy. Requirements are fallible (because they are written by people) - they are often incomplete, ambiguous and contain internal contradictions.
+Many companies consider written requirements as their only requirements. This is a very narrow view of requirements. The majority of requirements are implicit and fuzzy. Requirements are fallible because the people who write them are fallible - they are often incomplete, ambiguous and contain internal contradictions.
 
-Testing is a way of discovering unstated requirements and can often only come from a really thorough evaluation of the software. Testing can (and should) question if the requirements would actually solve the problem that the software is meant to solve, or if there is a different way it can be solved which is more appealing to the client. Deep testing can tease out ambiguities and clarify uncertainty, as well as discover and expose constraints.
+Testing is a way of discovering unstated requirements and can often only come from a really thorough evaluation of the software. Testing can (and should) question if the requirements would actually solve the problem that the software is meant to solve, or if there is a different way it can be solved which is more appealing to the client. Testing can tease out ambiguities and clarify uncertainty, as well as discover and expose constraints.
 
-There's also often an assumption that the requirements satisfy the needs of the stakeholders, and that the relevant set of stakeholders has been consulted and had their needs taken into account. Testing should also check the requirement that the requirements make sense to the right set of people.
+There's also often an assumption that the requirements satisfy the needs of the stakeholders, and that the relevant set of stakeholders has been consulted and had their needs taken into account. Testing should ask whether we've met the requirement that the requirements make sense to the right set of people.
 
 It's important to note that testing cannot ensure that requirements are met. Testing is sympathetically sceptical about the project. It seeks to help the stakeholders to build the best version of the thing they want within their constraints. 
 
