@@ -49,6 +49,20 @@ No level of testing can provide certainty that the software works, so our unders
 
 (See [Appendix A](#appendixa-1) for an alternative way to respond to the statement using the "Mary had a little lamb" heuristic from Gerald Weinberg.)
 
+<h4>Testing is just to make sure the requirements are met</h4>
+
+Requirements come in many different shapes and sizes. While checking (explicit) requirements can be important, testing has much more to offer than just demonstrating that the software fulfils such requirements.
+
+Many companies consider written requirements as their only requirements. They have elaborate methods to track their written requirements and ensure that there are tests executed against those requirements. This is a very narrow (and hopeful) view of requirements. The majority of requirements are implicit and fuzzy. Requirements are fallible (because they are written by people) - they are often incomplete, ambiguous and contain internal contradictions.
+
+Testing is a way of discovering unstated requirements and can often only come from a really thorough evaluation of the software. Testing can (and should) question if the requirements would actually solve the problem that the software is meant to solve, or if there is a different way it can be solved which is more appealing to the client. Deep testing can tease out ambiguities and clarify uncertainty, as well as discover and expose constraints.
+
+There's also often an assumption that the requirements satisfy the needs of the stakeholders, and that the relevant set of stakeholders has been consulted and had their needs taken into account. Testing should also check the requirement that the requirements make sense to the right set of people.
+
+It's important to note that testing cannot ensure that requirements are met. Testing is sympathetically sceptical about the project. It seeks to help the stakeholders to build the best version of the thing they want within their constraints. 
+
+Moving away from viewing testing as just a way to verify that the software meets the explicit requirements allows for more space for testing to add value to the project. Testing is a way of evaluating the software and its requirements, as well as identifying additional requirements, discovering ambiguities and exposing constraints.
+
 <h4>Why didn't you find those issues before we shipped?</h4>
 
 There are many reasons why issues find their way into released software - and we expect this to happen.
