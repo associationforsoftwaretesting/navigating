@@ -365,6 +365,7 @@ Jon Bach,
 Michael Bolton,
 Carol Brands
 <h4>C</h4>
+Caleb Crandall,
 John Creson,
 Stu Crock
 <h4>D</h4>
@@ -378,9 +379,12 @@ Ben Fellows,
 Elizabeth Fiennes, 
 Marius Francu
 <h4>G</h4>
+Matt Gilbert,
 Ashley Graf,
 David Greenlees
 <h4>H</h4>
+Jason Hamilton,
+Mike Harris,
 Andy Hird,
 David Högberg,
 Paul Holland
@@ -414,6 +418,7 @@ Maaret Pyhäjärvi
 Venkat Ramakrishnan,
 Bhavani Ramasubbu,
 Alex de los Reyes,
+Heiki Roletsky,
 Wayne Roseberry
 <h4>S</h4>
 Paul Seaman, 
