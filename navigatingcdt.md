@@ -327,6 +327,24 @@ Testing could be "done" in an hour, or in a week or in a month, depending on wha
 
 <h3 id="career">Career</h3>
 
+<h4> Whenever possible, you should hire testers with testing certifications</h4>
+
+While holding a testing certification may be a signal that a candidate has a learning mindset, it doesn't guarantee that they're a great tester. Taking additional factors into account in your hiring decisions is likely to be more beneficial.
+
+If you decide to only hire testers with testing certifications, it creates a funnel problem. Many skilled testers are *not* certified and excluding them reduces the number of available applicants. Many great testers have come into testing as a second career from a variety of backgrounds and those backgrounds often help them be better testers. When an open position doesn't get enough applicants, it becomes much harder to find a match.
+
+Only hiring testers with testing certifications also increases the risk of groupthink, which is dangerous in testing.
+
+Any form of testing education (including certifications) on a resume can be taken as a positive signal. It may signal their desire to learn more and that they've had some kind of training - which might be useful, but might not. There are many other signs that a tester is developing their skills, though, such as leading on an aspect of testing, writing an article on a subject or taking courses on test automation. 
+
+It's worth noting that most certifications do not prove that a tester can test and merely having the piece of paper tells you very little. Most testing certifications focus more on the visible artifacts produced by some testing processes and less on the core skills needed to function as a tester. Focusing on certifications can indicate that the tester over-appreciates knowledge while undervaluing skills.
+
+During your hiring process, you still need to evaluate the tester's skills and abilities, regardless of whether they hold any certifications. This requires them to demonstrate actual testing and critical thinking skills, by asking them to test an application or come up with test ideas for example. A certification won't tell you how strong the candidate is in terms of valuable testing skills and attributes, such as analysis, curiosity, creativity, passion, ability to assess risk, working under pressure and empathising with their teammates.
+
+Testing certifications are just one of many ways of seeing that someone is developing their skills. You should consider hiring someone with testing education while also assessing their skills and experience as a tester. 
+
+You might also take the opportunity to nudge your candidates in the direction of good quality training education, such as the AST's well-regarded [Black Box Software Testing](https://associationforsoftwaretesting.org/bbst-black-box-software-testing-courses/) and the various [Rapid Software Testing](https://rapid-software-testing.com/rst-courses/) classes. 
+
 <h4>For your annual review, I’ll need to see evidence of what you produced this year</h4>
 
 As knowledge workers, it can be challenging for testers to demonstrate their achievements and provide evidence of their output at annual reviews. 
