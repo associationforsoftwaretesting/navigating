@@ -33,6 +33,22 @@ The book is coordinated and collated by testing practitioner and long-standing A
 
 <h3 id="testing">Testing</h3>
 
+<h4>Developers can't find bugs in their own code</h4>
+
+Developers can and do find bugs when coding. They not only find them in the code they are writing now, but also in code they wrote earlier, in their colleagues' code, and in the code of third-party libraries and applications they are using. 
+
+It's worth noting that the developer is likely testing at layers lower than the tester. The developer might test something impossible to know about at any higher level. Something obvious from white box analysis could be a hidden, random guessing game from the perspective of a black box tester.
+
+Developers - with their intimate knowledge of their own code - have hunches and concerns that can help testers find rich areas of concern to investigate - if the tester asks.
+
+The developer's detailed knowledge of their code has a downside, though, in that they lack critical distance. Critical distance may be defined as the totality of differences between any two ways of relating to or thinking about the same thing. Software testing in general benefits from critical distance and testers can identify problems that the developer themself was unlikely to spot.
+
+Another way that the developer might have trouble is when the bug arises from a misunderstandings or mistaken assumptions. These represent blind spots that impacted the developer's choices while coding and are also likely to impact decisions they make crafting a test strategy. There are ways to get around these blind spots, but they are a difficult hurdle, particularly when we don't realize they are there. This is an instance where someone not as closely tied to the implementation choices, e.g. a tester, can often do better with testing.
+
+Testing optimized toward exposing deep, complex problems takes uninterrupted effort and time. The typical time demands on a developer mean they either spend it designing a solution, coding a solution, searching for a fix to a problem, or coding that solution. These demands compete with the time for testing.
+
+Developers find - and fix - bugs all the time during their coding work. They don't typically find all of the bugs in their code and are less likely to identify some kinds of bugs, but the same can be said of testers too. The combination of developer testing where it makes sense and testing performed by expert testers is likely to increase the chances of finding the bugs that matter.
+    
 <h4>We test to make sure it works</h4>
 
 We test to learn and make sure we understand how it works, and for whom; and how it doesn't work, and for whom.
