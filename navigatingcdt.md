@@ -37,9 +37,9 @@ The book is coordinated and collated by testing practitioner and long-standing A
 
 Developers can and do find bugs when coding. They not only find them in the code they are writing now, but also in code they wrote earlier, in their colleagues' code, and in the code of third-party libraries and applications they are using. 
 
-It's worth noting that the developer is likely testing at layers lower than the tester. The developer might test something impossible to know about at any higher level. Something obvious from white box analysis could be a hidden, random guessing game from the perspective of a black box tester.
+Some people think developers can't find bugs because they don't realise that the developer is likely testing at layers lower than the tester. The developer might test something impossible to know about at any higher level. Something obvious from white box analysis could be a hidden, random guessing game from the perspective of a black box tester.
 
-Developers - with their intimate knowledge of their own code - have hunches and concerns that can help testers find rich areas of concern to investigate - if the tester asks.
+Developers - with their intimate knowledge of their own code - have hunches and concerns that can help testers find rich areas of concern to investigate. This presents an awesome opportunity for testers to broaden their understanding of risk by collaborating with developers .
 
 The developer's detailed knowledge of their code has a downside, though, in that they lack critical distance. Critical distance may be defined as the totality of differences between any two ways of relating to or thinking about the same thing. Software testing in general benefits from critical distance and testers can identify problems that the developer themself was unlikely to spot.
 
