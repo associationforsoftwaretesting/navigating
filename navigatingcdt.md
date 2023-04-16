@@ -251,7 +251,7 @@ If you really need to get a quick estimate for setting up a new team, then a rea
 
 It's likely that talking to the team members and looking carefully at its practices, its interfaces with other teams, the business, and so on is a better way to work out a good balance of developers and testers than waving some arbitrary and context-free mathematical wand. Focus less on targetting a certain ratio and more on determining how much you want to learn about the product and how to accomplish that. This will determine who does what testing and how many of each kind of team member you need - and this will almost certainly differ from project to project.
 
-<h4>Stop saying "it depends" when I ask you a question</h4>
+<h4 id="depends">Stop saying "it depends" when I ask you a question</h4>
 
 "It depends" is a truthful answer to many questions in any non-trivial context but, unfortunately, it's not usually a very helpful answer. Our aim, as context-driven testers, is to be truthful but also clarify how, why and on what our answer depends. 
 
@@ -261,17 +261,19 @@ In composing an answer to the question, use your experience and the context to d
 
 Initiating your response with "it depends" is a way to indicate that you're thinking about contextual factors that will influence your answer. Following it with an appropriate summary of the perceived important variables and their potential consequences, while being ready to add depth or clarification, will signal that you are a valuable contributor and collaborator. As the context-driven principles say: people, working together, are the most important part of any project's context. 
 
-<h4>Stop answering my questions with questions</h4>
+[See also "Stop answering my questions with questions"](#questionsquestions)
 
-To have productive conversations, we need to be able to ask enough questions to engage, learn, gain clarity, and respond. Otherwise, we run the risk of having shallow conversations and not really understanding one another.
+<h4 id="questionsquestions">Stop answering my questions with questions</h4>
 
-Being able to ask the right questions is one of the most important parts of our job as testers. We often find ourselves being asked questions that require further clarification or information before we can provide good answers. 
+Being able to ask the right questions is one of the most important parts of our job as testers. We often find ourselves being asked questions that require further clarification or information before we can provide answers. Answering questions with questions to help close the gap is not something to be avoided. 
 
-Answering questions with questions to help close the gap is not something to be avoided. In this situation, it's perhaps worth explaining that you're not intentionally trying to evade the question, but rather looking to get to a point of shared understanding for the particular context you're in. 
+In this situation, it's perhaps worth explaining that you're not intentionally trying to evade the question, but rather looking to get to a point of shared understanding for the particular context you're in. 
 
-It's worth noting that many questions are not well posed, so asking follow on questions to ask for more information and gather more context can be very helpful. Asking for more insight gives clues into the motivation behind the question and the person receiving the question(s) gets confirmation they are being heard. Making the effort to ask such follow on questions helps to make sure we're answering the question they're really asking and not potentially answering something else because of a misunderstanding.
+Many questions are not well posed, so use follow on questions to ask for more information and gather more context. Asking for more insight gives clues into the motivation behind the question and the person receiving the question(s) gets confirmation they are being heard. Making the effort to ask such follow on questions helps to make sure we're answering the question they're really asking and not potentially answering something else because of a misunderstanding.
 
-We sometimes need to "answer" questions with questions, because we care about giving responses that suit the context. Be mindful that doing so may come across as evasive, so explain that you're looking to get to a point of shared understanding to help you give your best possible answer.
+We sometimes need to "answer" questions with questions, not to be evasive or confrontational, but because we care about giving responses that suit the context.
+
+[See also "Stop saying "it depends" when I ask you a question"](#depends)
 
 <h3 id="testing-status">Testing Status</h3>
 
