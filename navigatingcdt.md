@@ -261,6 +261,18 @@ In composing an answer to the question, use your experience and the context to d
 
 Initiating your response with "it depends" is a way to indicate that you're thinking about contextual factors that will influence your answer. Following it with an appropriate summary of the perceived important variables and their potential consequences, while being ready to add depth or clarification, will signal that you are a valuable contributor and collaborator. As the context-driven principles say: people, working together, are the most important part of any project's context. 
 
+<h4>Stop answering my questions with questions</h4>
+
+To have productive conversations, we need to be able to ask enough questions to engage, learn, gain clarity, and respond. Otherwise, we run the risk of having shallow conversations and not really understanding one another.
+
+Being able to ask the right questions is one of the most important parts of our job as testers. We often find ourselves being asked questions that require further clarification or information before we can provide good answers. 
+
+Answering questions with questions to help close the gap is not something to be avoided. In this situation, it's perhaps worth explaining that you're not intentionally trying to evade the question, but rather looking to get to a point of shared understanding for the particular context you're in. 
+
+It's worth noting that many questions are not well posed, so asking follow on questions to ask for more information and gather more context can be very helpful. Asking for more insight gives clues into the motivation behind the question and the person receiving the question(s) gets confirmation they are being heard. Making the effort to ask such follow on questions helps to make sure we're answering the question they're really asking and not potentially answering something else because of a misunderstanding.
+
+We sometimes need to "answer" questions with questions, because we care about giving responses that suit the context. Be mindful that doing so may come across as evasive, so explain that you're looking to get to a point of shared understanding to help you give your best possible answer.
+
 <h3 id="testing-status">Testing Status</h3>
 
 <h4>What's the best testing metric?</h4>
