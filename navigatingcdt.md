@@ -115,6 +115,37 @@ And we could explain some of these reasons:
 
 Mistakes happen because humans are fallible. However, we can learn with the aim of improving when we all share responsibility and avoid the blame game. So a better version of this question might be "Could we examine as a group why these issues were missed before we shipped the product, so that we in future can ship a better quality product to our customers? I would like you to be honest with me, and not hold anything back."
 
+<h4>When is the best time to test?</h4>
+
+The best time to test is, usually, now. 
+
+But, consider whether there's a good chance the effort will be worth the expense. Is there enough of something to be tested now? Is the information you get from the testing most useful right now? Is there actually an opportunity to test now?
+
+Deciding what you could or should be testing now depends on many factors, including where the software is in its development lifecycle and how involved you can be as a tester in these various stages. Each phase of developing a product - from ideation to release - has some hypothesis that could benefit from being challenged, though.
+
+Tasks like these could all be productive and cost-effective testing at different times:
+
+* Test a new market for opportunities
+* Suggest pros and cons of potential projects
+* Build models of potential features
+* Look for evidence that the suggested needs are worth addressing
+* Synthesise previous discussion to provide a set of constraints on any solution
+* Practice "prospective testing" (the application of the testing mindset to a product that does not yet exist in an executable form, from James Bach and Jeff Nadelman), asking questions of the designers, architects, programmers, customers and stakeholders
+* Prototype solutions to discover likely issues
+* Research similar solutions to identify missing features, failure modes, test ideas, etc.
+* Critically analyze specifications or mockups, looking for assumptions and gaps, and asking questions
+* Explore the emerging solution, as it emerges
+* Explore the implemented solution in context 
+* Compare the capabilities of the implementation to the original needs
+* Try to find new risks introduced by the solution
+* Explore the new feature in production
+* Monitor the behaviour and performance of the new feature
+* Look for evidence that the solution is satisfying the identified needs
+* Explore user data to look for patterns
+* Analyse telemetry data for potential bottlenecks
+
+If you're unsure about what risks to investigate, the scale of a potential problem, the cost of a range of solutions, or have any important unknown at all, then the best time to test (all other things being equal) is now. If software is being developed and you are involved in that process as a tester, you can almost always find some way to be testing and providing valuable information to your stakeholders.
+
 <h3 id="automation">Automation</h3>
 
 <h4 id="letsjustautomate">Let's just automate the testing</h4>
