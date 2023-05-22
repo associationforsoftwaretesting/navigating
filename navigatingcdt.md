@@ -117,9 +117,9 @@ Mistakes happen because humans are fallible. However, we can learn with the aim 
 
 <h4>When is the best time to test?</h4>
 
-The best time to test is, usually, now. 
+The best time to test is, usually, now. You still need to think about what to test, how to test it, and why it might make sense to test it now.
 
-But, consider whether there's a good chance the effort will be worth the expense. Is there enough of something to be tested now? Is the information you get from the testing most useful right now? Is there actually an opportunity to test now?
+Consider whether there's a good chance the effort will be worth the expense. Is there enough of something to be tested now? Is the information you get from the testing most useful right now? Is there actually an opportunity to test now?
 
 Deciding what you could or should be testing now depends on many factors, including where the software is in its development lifecycle and how involved you can be as a tester in these various stages. Each phase of developing a product - from ideation to release - has some hypothesis that could benefit from being challenged, though.
 
@@ -130,7 +130,7 @@ Tasks like these could all be productive and cost-effective testing at different
 * Build models of potential features
 * Look for evidence that the suggested needs are worth addressing
 * Synthesise previous discussion to provide a set of constraints on any solution
-* Practice "prospective testing" (the application of the testing mindset to a product that does not yet exist in an executable form, from James Bach and Jeff Nadelman), asking questions of the designers, architects, programmers, customers and stakeholders
+* Ask questions of the designers, architects, programmers, customers and stakeholders (practising "prospective testing", a term coined by James Bach and Jeff Nadelman)
 * Prototype solutions to discover likely issues
 * Research similar solutions to identify missing features, failure modes, test ideas, etc.
 * Critically analyze specifications or mockups, looking for assumptions and gaps, and asking questions
