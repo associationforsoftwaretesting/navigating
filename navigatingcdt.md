@@ -455,6 +455,7 @@ Arun Kumar Dutta
 João Farias, 
 Ben Fellows,
 Elizabeth Fiennes, 
+Andres Flores,
 Marius Francu
 <h4>G</h4>
 Matt Gilbert,
@@ -479,8 +480,10 @@ Rachel Kibler,
 Joel Kruse
 <h4>L</h4>
 Luke Liu,
+Paul Lyles,
 Petteri Lyytinen
 <h4>M</h4>
+Paul Maxwell-Walters,
 Matt Middleton
 <h4>N</h4>
 Chris NeJame
@@ -496,6 +499,7 @@ Maaret Pyhäjärvi
 Venkat Ramakrishnan,
 Bhavani Ramasubbu,
 Alex de los Reyes,
+Connor Roberts,
 Heiki Roletsky,
 Wayne Roseberry
 <h4>S</h4>
