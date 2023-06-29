@@ -282,6 +282,16 @@ If you really need to get a quick estimate for setting up a new team, then a rea
 
 It's likely that talking to the team members and looking carefully at its practices, its interfaces with other teams, the business, and so on is a better way to work out a good balance of developers and testers than waving some arbitrary and context-free mathematical wand. Focus less on targetting a certain ratio and more on determining how much you want to learn about the product and how to accomplish that. This will determine who does what testing and how many of each kind of team member you need - and this will almost certainly differ from project to project.
 
+<h4>Testers are the gatekeepers of quality</h4>
+
+Testers are gatekeepers of quality in exactly the same way that scientists and journalists are gatekeepers of public policy: *they're not*. Testers observe, investigate, and report on things as scientists and journalists do, but testers are not gatekeepers.
+
+As professionals, testers accept responsibility for the quality of their own work, but testers can neither accept nor usurp responsibility for the quality of the product, and for making decisions about it. Like news journalists, investigators, scientists, researchers and building inspectors, testers are gatekeepers of the information they communicate from what was discovered when testing. They are responsible for the quality - the value - of that information delivered as a product to decision-makers - value that is subjectively determined by those recipients. 
+
+Being a gatekeeper displaces the perceived goal of the tester from helping to build a great product to slowing down and blocking inadequate products to pass. This not only leaves testers open to undue blame if something does get to production, but puts us on a path of friction and internal politics with the rest of the company if we do act as gatekeepers and choose to stop a release due to severe known bugs. If we are holding the entire team accountable for their work, it makes little sense to designate someone to be the gatekeeper. 
+
+Although testers may sometimes feel empowered by the idea that they are the gatekeepers of quality, it sets them up for unrealistic expectations and isolates them from their teams. The idea of testers being gatekeepers also massively undersells the wide range of benefits that a good tester can bring to an organisation by opening or even crashing through gates, rather than standing next to them.
+
 <h4 id="depends">Stop saying "it depends" when I ask you a question</h4>
 
 "It depends" is a truthful answer to many questions in any non-trivial context but, unfortunately, it's not usually a very helpful answer. Our aim, as context-driven testers, is to be truthful but also clarify how, why and on what our answer depends. 
