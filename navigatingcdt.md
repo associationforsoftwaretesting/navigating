@@ -284,11 +284,13 @@ It's likely that talking to the team members and looking carefully at its practi
 
 <h4>Testers are the gatekeepers of quality</h4>
 
-Testers are gatekeepers of quality in exactly the same way that scientists and journalists are gatekeepers of public policy: *they're not*. Testers observe, investigate, and report on things as scientists and journalists do, but testers are not gatekeepers.
+We don't think of scientists and journalists as gatekeepers of public policy. Just like them, though, testers observe, investigate and report on things - but testers are not gatekeepers.
 
-As professionals, testers accept responsibility for the quality of their own work, but testers can neither accept nor usurp responsibility for the quality of the product, and for making decisions about it. Like news journalists, investigators, scientists, researchers and building inspectors, testers are gatekeepers of the information they communicate from what was discovered when testing. They are responsible for the quality - the value - of that information delivered as a product to decision-makers - value that is subjectively determined by those recipients. 
+As professionals, testers accept responsibility for the quality of their own work, but testers can neither accept nor usurp responsibility for the quality of the product, and for making decisions about it. Like news journalists, investigators, scientists, researchers and building inspectors, testers are gatekeepers of the information they communicate from what was discovered when testing. They are responsible for the quality - the value - of that information delivered as a product to decision-makers - value that is subjectively determined by those recipients. Sometimes, this information may be in the form of opinion or recommendations.
 
-Being a gatekeeper displaces the perceived goal of the tester from helping to build a great product to slowing down and blocking inadequate products to pass. This not only leaves testers open to undue blame if something does get to production, but puts us on a path of friction and internal politics with the rest of the company if we do act as gatekeepers and choose to stop a release due to severe known bugs. If we are holding the entire team accountable for their work, it makes little sense to designate someone to be the gatekeeper. 
+The goal of the tester is to help the team to build a great product. Assigning them gatekeeping responsibility (slowing down and blocking inadequate products to pass) puts this goal at risk. 
+
+A tester in a position of quality gatekeeper risks being blamed if a problem does get to production, and also puts them on a path of friction and internal politics with the rest of the company when deciding to stop a release due to severe known bugs. If we are holding the entire team accountable for their work, it makes little sense to designate someone to be the gatekeeper. 
 
 Although testers may sometimes feel empowered by the idea that they are the gatekeepers of quality, it sets them up for unrealistic expectations and isolates them from their teams. The idea of testers being gatekeepers also massively undersells the wide range of benefits that a good tester can bring to an organisation by opening or even crashing through gates, rather than standing next to them.
 
