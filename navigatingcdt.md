@@ -162,6 +162,20 @@ We need to be deliberate in our thinking about how automation can help us to tes
 
 The diminutive "just" in the statement ("Let's just automate the testing") makes it seem like such a quick and easy thing to do, a casual activity that we can engage in that takes minimal effort. Implementing automated checks requires significant human effort and should be considered as software development work in its own right.
 
+<h4>If testers can't code, they're of no use to us</h4>
+
+There are many non-coders that are a part of software development, including product managers, operations people, technical writers and designers. All of these roles can perhaps benefit from coding as well, but there is a lot of value they bring to the table without it. So, what about testers?
+
+Testers are sometimes worried that they won't be taken seriously on their project unless they have a coding background. Software projects typically already have people who can code, we call them developers. If coding is so important, what additional value do you get from a tester who can code over developers? If there's none, why are you looking for a tester? If there's some value, why couldn't a tester do that and be supported by developers?
+
+If a tester has coding skills, they may be able to write tools, automated checks, contribute to repos (such as to make minor bug fixes), provide feedback in design and code reviews, participate in unit testing or build a test framework. Their level of coding skill and experience will determine the degree to which they can contribute to all of these possibilities. So think about whether it's enough that the tester can hack together a temporary test rig out of Python and bash or whether you really need a tester who can architect and build a company-wide, end-to-end, full-stack, test framework.
+
+If developers and testers work closely together, developers can support and enable testers (e.g. by building test tools) without threatening the testers' ability to test deeply and critically by filling their brains with solution-building skills.
+
+Testers in many ways are advocates for the user and sometimes fill in as a proxy. Evaluating software in testing from the viewpoint of the code misses important dimensions such as usability and user experience.
+
+Clearly, testers with coding skills can contribute to projects in ways that testers without those skills can't. Non-coding testers still bring value to their projects, though, so consider whether coding is better left to developers who can support testers in their work.
+
 <h4>What percentage of our test cases are automated?</h4>
 
 The number of test cases and the percentage of those that are automated doesn't really provide any useful information about quality. 
