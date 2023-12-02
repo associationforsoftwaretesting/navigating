@@ -146,6 +146,36 @@ Tasks like these could all be productive and cost-effective testing at different
 
 If you're unsure about what risks to investigate, the scale of a potential problem, the cost of a range of solutions, or have any important unknown at all, then the best time to test (all other things being equal) is now. If software is being developed and you are involved in that process as a tester, you can almost always find some way to be testing and providing valuable information to your stakeholders.
 
+<h4>Are observability and monitoring part of testing?</h4>
+
+To the extent that observability and monitoring influence testability, they are part of testing.
+
+Observability is an attribute of a system which refers to the ability to make observations of its behavior and state. Observability is *not* a kind of testing. Observability affects our ability to test, we utilize and exploit a system's observability when we test.
+
+Observability can facilitate customer support or help answer unexpected questions after the product is released - and is therefore a property of the system that can serve multiple business needs including testing. Observability exposes how our systems actually work, by making it easier to learn how our users actually use the systems that we built and shipped. 
+
+Turning to monitoring, most tooling that you'll integrate for logging, monitoring and telemetry will have a facility for interrogating the data it produces. This can help to answer questions, and so be part of testing, but can also be used productively to explore that data looking for questions to ask. Armed with this new understanding we can enhance our telemetry, craft better dashboards and alerts, tweak the infrastructure, or change the product - this can be considered part of testing too. 
+
+When combined with capabilities such as partial deployment and quick rollback, monitoring can provide risk reduction in a post-hoc way instead of as an expensive pre-emptive effort. As such, monitoring has the potential to replace certain kinds of testing for certain products.
+
+A system that is easily observable will be easier to test, and we can use monitoring to both aim our testing effort and to run experiments we can't replicate in our labs. The fact that it *can* be used for testing, however, does not make it a *part* of it.
+
+Information about how software is actually used, what parts are most visited, for how long, when, on what environments and by how many users is invaluable to a development team - this information is aided and abetted by observability and monitoring. For testers, it can be extremely useful, helping to design better tests and suggesting usage patterns that could inform future testing. It can also be used to design testing environments that better model actual production environments.
+
+The **TOAD** acronym, introduced by Noah Sussman and built on by Chris McMahon, can be helpful in understanding the tight connections between **T**esting, **O**bservability **A**nd **D**evOps.
+
+The idea behind TOAD is that there is a common thread between all three concepts and, when you focus on them, you are able to better understand your application. DevOps facilities the development process from desktop to production. Observability tells us what has happened on the system in great detail. Testing describes what the system should do. (Taken from [Chris McMahon's blog](https://chrismcmahonsblog.blogspot.com/)
+
+The interplay of testing, observability and devops make sense. Let's use an example:
+
+* We create well designed automated tests to help us show our application works.
+* We add them to a pipeline to detect changes throughout development.
+* We observe if the changes in the application caused by the tests are acceptable or if they create new problems.
+
+If monitoring is robust and thorough enough, it can reveal information about the system’s functionality, reliability, and other characteristics that are traditionally assessed during testing. Observability takes us further by understanding what is happening to our application(s) under test during our testing. This blurring of the lines is captured well by TOAD.
+
+Observability and monitoring can both provide capabilities that help testing. There is value to and overlap with testing in expressive logging and tracing capabilities. Engaging with observability as a requirement means exploring how we can understand and learn about the software you're testing, at a depth beyond UI "correctness" against modeled expectations. The ability to capture evidence of failure can help us move software engineering and the discipline of testing past shallow, binary "functioning to spec" checking to continuous learning and exploration.
+
 <h3 id="automation">Automation</h3>
 
 <h4 id="letsjustautomate">Let's just automate the testing</h4>
