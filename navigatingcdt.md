@@ -158,7 +158,7 @@ Turning to monitoring, most tooling that you'll integrate for logging, monitorin
 
 When combined with capabilities such as partial deployment and quick rollback, monitoring can provide risk reduction in a post-hoc way instead of as an expensive pre-emptive effort.
 
-A system that better observability has better testability, and we can use monitoring to suggest usage patterns that could inform future testing and also to run experiments we can't replicate in our labs. The fact that it *can* be used for testing, however, does not make it a *part* of it.
+A system that has better observability has better testability, and we can use monitoring to suggest usage patterns that could inform future testing and also to run experiments we can't replicate in our labs. The fact that it *can* be used for testing, however, does not make it a *part* of it.
 
 Information about how software is actually used, what parts are most visited, for how long, when, on what environments and by how many users is invaluable to a development team - this information, and potentially more, is provided by observability and monitoring. For testers, it can be extremely useful, helping to design better tests and to design testing environments that better model actual production environments.
 
