@@ -462,29 +462,23 @@ Testing could be "done" in an hour, or in a week or in a month, depending on wha
 
 There is no single "best" format for a test plan. You should use a format that works for you, your colleagues, your intended audience and the context you're in right now. 
 
-A test plan may serve a number of different purposes, including:
+A test plan may serve a number of different purposes and the format for your test plan needs to find the right balance between them.
 
-* A thinking tool
-* A communication tool
-* A piece of evidence
+As a **thinking tool**, it could act as a set of points that are most important to you - it could be a list of relevant risks, a checklist of affected modules, or a reminder to think about security tests. The plan can aid conversations to refine these details.
 
-The format for your test plan needs to find the right balance between these different purposes in your context.
+As a **communication tool**, it should be as short, structured and focused as possible, and yet still manage to tell a story that is of value to its audience.
 
-As a thinking tool, it could act as a set of points that are most important to you - it could be a list of relevant risks, a checklist of affected modules, or a reminder to think about security tests. The plan can aid conversations to refine these details.
+As a **piece of evidence** that might be needed to pass some audit, it should be properly labeled and linked to other related evidence.
 
-As a communication tool, it should be as short, structured and focused as possible, and yet still manage to tell a story that is of value to its audience.
-
-As a piece of evidence that might be needed to pass some audit, it should be properly labeled and linked to other related evidence.
-
-With the different purposes in mind, the content will be determined by many factors:
+The content will be determined by many factors:
 
 * If you work closely with a knowledgeable and self-motivated crew, it might be a simple bullet list of test ideas or a handful of sticky notes on a board.
 * If you're in a highly-regulated industry, it might be some heavily-templated and standardised document that forces you to include all of the information necessary to comply with internal, regulatory, and statutory requirements.
-* If you know the system under test well your plan might be well-populated before you start, but if you don't then it might be sparse and higher-level with more open-ended and exploratory tasks.
+* If you know the system under test well, your plan might be well-populated before you start, but if you don't then it might be sparse and higher-level with more open-ended and exploratory tasks.
 * If you want to revise the plan as you go then a format which permits editing, perhaps with some kind of audit trail or history, might suit your need. 
 * If you need the plan to also show status over time, a mindmap can be an interesting approach.
 * If there is a pre-existing convention for plans in your workplace, and it's widely used with reasonable outcomes, you might decide to stick to it, at least to begin with.
-* If there is familiar tooling that you can exploit — and consider familiarity to yourself and anyone else who will be a user or consumer of the plan — then you might prefer to do that.
+* If there is familiar tooling that you can exploit then you might prefer to do that.
 * If you don't have much time, choose a lightweight format to begin with but be prepared to revise it if things get complicated.
 * If the plan is likely to persist over time, consider a format that will support it. This probably includes at least more context-setting, links to related materials, storage in a standard location and so on.
 * If it's politically advantageous to document your plan in a particular way, then be prepared to consider it. But also be wary of getting involved in politics.
