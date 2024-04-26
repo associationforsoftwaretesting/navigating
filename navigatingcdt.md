@@ -540,6 +540,7 @@ Emma Armstrong
 <h4>B</h4>
 James Bach, 
 Jon Bach,
+Andrew Bishop,
 Michael Bolton,
 Carol Brands
 <h4>C</h4>
@@ -580,6 +581,7 @@ Andrew January
 Jonathan Kean,
 Chris Kenst,
 Rachel Kibler,
+Tariq King,
 Joel Kruse
 <h4>L</h4>
 Luke Liu,
