@@ -320,6 +320,31 @@ So, whether having more test cases results in better test coverage really depend
 
 <h3 id="testers">Testers</h3>
 
+<h4>Why don’t we replace the testers with AI?</h4>
+
+You can't replace testers with AI simply because there's no AI capable of doing all the things that testers are doing (as of the time of writing, April 2024).
+
+You might consider replacing testers with AI because:
+
+* You don't understand what actually testers do.
+* You don't value what testers do and so see AI as a cheaper alternative.
+* You don't appreciate the variability, novelty and complexity of your context; the domain, company, and technical knowledge needed to navigate it; or the ability of a person to use a combination of heuristics, logic, and instinct to identify risk and prioritise work across diverse concerns.
+* You conflate testing with test cases and see test case creation as a mechanical task easily done by, for example, a large language model (LLM).
+* You focus on deliverables and think that testing artefacts could be replicated to an acceptable level faster and cheaper by a black box full of who-knows-what statistics (without considering how many of those are interesting, relevant, or useful).
+* You fall for the LLM illusions of reasoning, so think it's creative and capable without looking critically at its output.
+* You don't consider the total cost of ownership, deciding based on how quickly work items are drafted and ignoring the human time and effort spent sifting, evaluating, and correcting them, as well as any training, testing, maintenance, or other costs of the AI you plan to use.
+
+However, you might consider it inappropriate to replace testers with AI because:
+
+* Testers bring a human perspective to the process, understanding user experiences in a way that AI currently does not.
+* Testers can think outside of the box to identify new approaches, methods, and techniques for discovering potential risks and issues that AI currently does not.
+* Testers are needed to validate and verify the AI itself to make sure that learning models are correct, complete, consistent, verifiable, secure, ethical, responsible and more. Until AI autonomy is met with an equal level of trust, there will likely be human-in-the-loop checks and balances.
+* Artificial intelligence is not human intelligence.
+
+Both AI and humans are fallible. There are things humans can do better than machines and vice-versa. You're likely to be better off figuring out what each of those things are, the context around them, and then selecting the most appropriate solutions. If you think AI can replace your current job, testing or otherwise, it's probably time for you to start thinking about transitioning to the more human side of your profession.
+
+AI "taking testers jobs" might not be a problem we are going to have anytime soon. Rather than thinking about replacing testers, given the current state of AI, you should instead look for ways to leverage these technologies to augment, assist and extend the capabilities of human testers.
+
 <h4>What's the right ratio of developers to testers?</h4>
 
 There are so many factors that can influence the answer to this question that it simply doesn't make sense to talk of an "industry standard" ratio.
