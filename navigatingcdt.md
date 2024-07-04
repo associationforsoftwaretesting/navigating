@@ -32,6 +32,19 @@ The book is coordinated and collated by testing practitioner and long-standing A
 <h2 id="content">Responding to questions or statements around testing</h2>
 
 <h3 id="testing">Testing</h3>
+<h4>How can I possibly test "all the stuff" every iteration?</h4>
+
+It's never possible to test "all the stuff" because there are so many variables involved in running any piece of software anywhere that there's always another test that could be performed. What is possible, though, is to decide what is the important stuff to test given what we know about stakeholder concerns, risks to business value, time available, the software, and other relevant factors.
+
+Firstly, does every single feature or area of the software really get changed every single iteration? The whole point of iterating over software during the development is to introduce small, but valuable changes and deliver them to users. Since the changes are small, most of the software is the same as it was in the last iteration and therefore does not need to undergo comprehensive testing again.
+
+Secondly, you need to determine the level of risk introduced by these changes. What is being done to the software that introduces so much risk every iteration that someone believes it needs to be tested in its entirety? If something is being done that introduces that much risk, why is that being done and why is it being done every iteration? Thinking about risk helps you to work out what is an appropriate amount of time and effort to spend reviewing the changes. Sometimes that will include not looking at them at all. Maybe changes have broader scope than anticipated, or they introduce unintended consequences in other parts of the software. While these are fair concerns, most changes introduced by developers don't impact the entire system and you should not assume by default that they might.
+
+Next, even if you're the only tester in your team, it doesn't mean you're the only person who can take on testing tasks. Perhaps you can suggest that someone else should pick up the task of checking that bug fix, or that you'd like to pair with someone to review the coverage of this test suite and see whether it can be extended to remove a day's manual effort at the end of each sprint, or that you think it would be a good idea to get together as a team to think about edge cases before coding the next feature so that more robust testing can be done during development. Similarly, some development tasks might not need to be tested or verified by a dedicated tester, but by anyone who did not write the code. 
+
+In the same vein, wise use of automation might take some of the work off your plate. If there's some time-consuming repetitive testing tasks that are mechanical and boring to do, then they're likely to be done badly or not at all. Look for ways to subcontract that work to automation and free a human up to do something they're better suited to. While automation has limits and can’t check everything (see [Let's just automate the testing](#lets-just-automate-the-testing)), it can be very helpful. You need to understand what automation can and can’t do in your project, so you can make informed decisions about which features and paths you don’t need to spend much time on. When someone asks you to repeatedly perform specific tests, you might use that as opportunity to discuss spending some time on improving automation instead.
+
+Attempting to test "all the stuff", whether every iteration or otherwise, is a fool's errand. Instead, you need to understand the scope of what's changed, analyze the risks created by those changes and then design tests accordingly. Remember that other members of your team can probably assist with some testing tasks and automation used wisely will likely help you to reduce the amount of testing you need to do whenever the software changes.
 
 <h4>Developers can't find bugs in their own code</h4>
 
