@@ -662,8 +662,7 @@ Frances Turnbull
 <h4>V</h4>
 <h4>W</h4>
 Amit Wertheimer, 
-Tim Western,
-Frances White
+Tim Western
 <h4>X</h4>
 <h4>Y</h4>
 <h4>Z</h4>
