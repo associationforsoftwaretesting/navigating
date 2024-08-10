@@ -572,6 +572,7 @@ This book only exists thanks to the thoughtful contributions from the testing co
 
 <h4>A</h4>
 Olga Aksi, 
+Hoang Ngoc Anh,
 Emma Armstrong
 <h4>B</h4>
 James Bach, 
@@ -629,6 +630,7 @@ Matt Middleton
 <h4>N</h4>
 Chris NeJame
 <h4>O</h4>
+Sophie Obomighie
 <h4>P</h4>
 Hussain Pardawalla,
 Rahul Parwal, 
