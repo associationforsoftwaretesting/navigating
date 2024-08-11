@@ -356,6 +356,28 @@ However, you might consider it inappropriate to replace testers with AI because:
 
 AI "taking testers jobs" might not be a problem we are going to have anytime soon. Until AI autonomy is met with an equal level of trust, there will likely be human-in-the-loop checks and balances. If you think AI can replace your current job, testing or otherwise, it's probably time for you to start thinking about transitioning to the more human side of your profession. Rather than thinking about replacing testers, given the current state of AI, you should instead look for ways to leverage these technologies to augment, assist and extend the capabilities of human testers.
 
+<h4>Pair and ensemble testing look like a waste of time and resources to me. What do you think?</h4>
+
+Pair and ensemble testing are approaches to collaboration and they may or may not be wasteful (or helpful) in your particular situation.
+
+There are some potential benefits of pair and ensemble testing, including:
+
+* Sharing knowledge between team members
+* Gaining multiple perspectives and insights
+* Learning from one another
+* Sharing our personal opinion and experience
+* Investigating difficult bugs together
+* Helping non-testing folks understand how testers work, think and test a product
+
+Pair and ensemble testing might not be beneficial too, including when:
+
+* These approaches are not suited to the task at hand
+* There is no set end goal, rules of engagement, and sufficient time to review outcomes
+* The people involved don't have the skills or understanding of the approach
+* Participants are skeptical of the value of the activity
+
+Pair and ensemble testing are tools and, like any tool, they have benefits and costs, learning curves, contexts where they make more sense, practitioners who hate, enjoy or flourish with them, and numerous other factors that trade off against each other. It may be worth running a small experiment with pair or ensemble testing then review and analyse the outcomes to determine whether they provide value in your situation.
+    
 <h4>What's the right ratio of developers to testers?</h4>
 
 There are so many factors that can influence the answer to this question that it simply doesn't make sense to talk of an "industry standard" ratio.
