@@ -371,10 +371,10 @@ There are some potential benefits of pair and ensemble testing, including:
 
 Pair and ensemble testing might not be beneficial too, including when:
 
-* These approaches are not suited to the task at hand
-* There is no set end goal, rules of engagement, and sufficient time to review outcomes
-* The people involved don't have the skills or understanding of the approach
 * Participants are skeptical of the value of the activity
+* These approaches are not well suited to the task at hand (e.g. document reviews might be better left as solo efforts)
+* Your sessions are not well prepared (e.g. there is no set end goal, rules of engagement, and sufficient time to review outcomes)
+* The people involved don't have the skills or understanding of the approach
 
 Pair and ensemble testing are tools and, like any tool, they have benefits and costs, learning curves, contexts where they make more sense, practitioners who hate, enjoy or flourish with them, and numerous other factors that trade off against each other. It may be worth running a small experiment with pair or ensemble testing then review and analyse the outcomes to determine whether they provide value in your situation.
     
