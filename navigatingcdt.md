@@ -23,9 +23,9 @@
 
 _Navigating the World as a Context-Driven Tester_ provides responses to common questions and statements about testing from a context-driven perspective.
 
-The book will be a particularly useful resource for those new to context-driven testing, akin to an FAQ for day-to-day situations and how to approach them. It will also serve as a reference guide, with answers linking out to broader and deeper information on each topic.
+The e-book was designed to act as an FAQ for the day-to-day situations a tester may find themselves in and how to approach them from a context-driven perspective.
 
-The book is coordinated and collated by testing practitioner and long-standing AST member Dr Lee Hawkins, using input from both AST members and the broader testing community via Twitter, LinkedIn, Slack and the AST mailing list. We are glad to provide an opportunity for testers to contribute to a useful reference piece and all contributions are [attributed](#contributors).
+The book was coordinated and collated by testing practitioner and long-standing AST member [Dr Lee Hawkins](https://www.linkedin.com/in/lee-hawkins-3574148). The content was crowdsourced, starting early in 2021 and the final edit was made in August 2024 after some 28 requests for contributions. These requests were made across multiple platforms, including Twitter (X), LinkedIn, Slack (viz. in the AST and Rapid Software Testing channels), Mastodon and the AST mailing list. All contributions are [attributed](#contributors).
 
 <h2 id="content">Responding to questions or statements around testing</h2>
 
